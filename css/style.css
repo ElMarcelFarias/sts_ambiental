@@ -30,7 +30,7 @@
  ================================*/
 @import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&amp;display=swap");
 .bg-primary {
-  background-color: #2f55d4 !important;
+  background-color: #42d42f !important;
 }
 
 .bg-soft-primary {
@@ -2326,21 +2326,11 @@ p {
   border-color: #3c4858;
 }
 
-#topnav.nav-sticky .buy-button .login-btn-primary {
-  display: inline-block;
-}
-
-#topnav.nav-sticky .buy-button .login-btn-light {
-  display: none;
-}
 
 #topnav.nav-sticky .logo .l-dark {
   display: inline-block;
 }
 
-#topnav.nav-sticky .logo .l-light {
-  display: none;
-}
 
 .logo {
   font-weight: 700;
@@ -4481,6 +4471,19 @@ p {
 .footer.footer-bar {
   padding: 30px 0;
   border-top: 1px solid #3d4349;
+}
+
+.play-btn:hover {
+  transition: .7s;
+  background-color: rgb(90, 141, 35);
+}
+
+.NossoLitoral {
+  padding: 4rem!important;
+}
+
+.sect2 {
+  margin-bottom: -50px;
 }
 
 #style-switcher {

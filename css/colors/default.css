@@ -33,7 +33,7 @@
 .classic-saas-image .bg-saas-shape:after,
 .work-container.work-modern .icons .work-icon:hover,
 .features.fea-primary:hover {
-    background-color: #2f55d4 !important;
+    background-color: #056b12 !important;
 }
 
 .text-primary,
@@ -83,7 +83,7 @@
 .work-container.work-modern .content .title:hover,
 .shop-list .content .product-name:hover,
 .features.fea-primary .content .title:hover {
-    color: #2f55d4 !important;
+    color: #056b12 !important;
 }
 
 .btn-primary,
@@ -123,7 +123,7 @@
 .container-filter li a:hover,
 .flatpickr-day.selected, 
 .flatpickr-day.selected:hover {
-    border-color: #2f55d4 !important;
+    border-color: #056b12 !important;
 }
 
 .btn-primary,
@@ -134,7 +134,7 @@
 .btn-outline-primary.active, 
 .btn-outline-primary.focus, 
 .btn-outline-primary:not(:disabled):not(.disabled):active {
-    box-shadow: 0 3px 5px 0 rgba(47, 85, 212, 0.3);
+    box-shadow: 0 3px 5px 0 rgba(1, 85, 26, 0.3);
 }
 
 .btn-primary:hover, 
@@ -142,19 +142,19 @@
 .btn-primary:active, 
 .btn-primary.active, 
 .btn-primary.focus {
-    background-color: #2443ac !important;
-    border-color: #2443ac !important;
+    background-color: #056b12 !important;
+    border-color: #056b12 !important;
 }
 
 .btn-soft-primary {
-    background-color: rgba(47, 85, 212, 0.2) !important;
-    border: 1px solid rgba(47, 85, 212, 0.2) !important;
+    background-color: rgba(1, 85, 26, 0.3) !important;
+    border: 1px solid rgba(1, 85, 26, 0.3) !important;
 }
 
 .alert-primary,
 .pagination .page-item .page-link:hover,
 ::selection {
-    background-color: rgba(47, 85, 212, 0.9);
+    background-color: rgba(1, 85, 26, 0.9);
 }
 
 .alert-primary .alert-link {
@@ -162,20 +162,20 @@
 }
 
 .pagination .page-item .page-link:hover {
-    border-color: rgba(47, 85, 212, 0.9);
+    border-color: rgba(1, 85, 26, 0.9);
 }
 
 a.text-primary:hover, 
 a.text-primary:focus {
-    color: #284bc1 !important;
+    color: #056b12 !important;
 }
 
 .social-icon li a:hover .fea-social {
-    fill: #2f55d4;
+    fill: #056b12;
 }
 
 .bg-overlay-gradient {
-    background-color: rgba(47, 85, 212, 0.6);
+    background-color: rgba(1, 85, 26, 0.6);
 }
 
 .bg-overlay-gradient2 {

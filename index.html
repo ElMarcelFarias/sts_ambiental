@@ -23,17 +23,22 @@
     <!-- Icons -->
     <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="../../../unicons.iconscout.com/release/v2.1.7/css/unicons.css">
+    <!-- Slider -->               
+    <link rel="stylesheet" href="css/owl.carousel.min.css"/> 
+    <link rel="stylesheet" href="css/owl.theme.default.min.css"/> 
+    <!-- Animation -->
+    <link href="css/animate.css" rel="stylesheet" />
+    <link href="css/animations-delay.css" rel="stylesheet" /> 
     <!-- Main Css -->
     <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
     <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
+    <link rel="stylesheet" href="css/styledevo.css">
 
 </head>
 
 <style>
-    .play-btn:hover {
-        transition: .7s;
-        background-color: rgb(79, 129, 25);
-    }
+    
+
 </style>
 <body>
     <!-- Loader -->
@@ -53,12 +58,10 @@
             <!-- Logo container-->
             <div>
                 <a class="logo" href="index.html">
-                    <img src="images/logo-dark.png" height="24" alt="">
+                    <img src="images/logo-dark.png" class="l-dark" height="24" alt="">
+                    <img src="images/logo-light.png" class="l-light" height="24" alt="">
                 </a>
             </div>                 
-            <div class="buy-button">
-                <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-            </div><!--end login button-->
             <!-- End Logo container-->
             <div class="menu-extras">
                 <div class="menu-item">
@@ -76,183 +79,92 @@
     
             <div id="navigation">
                 <!-- Navigation Menu-->   
-                <ul class="navigation-menu">
+                <ul class="navigation-menu nav-light">
                     <li><a href="index.html">Home</a></li>
-                    <li class="has-submenu">
-                        <a href="javascript:void(0)">Landing</a><span class="menu-arrow"></span>
-                        <ul class="submenu megamenu">
-                            <li>
-                                <ul>
-                                    <li><a href="index-saas.html">Saas</a></li>
-                                    <li><a href="index-classic-saas.html">Classic Saas</a></li>
-                                    <li><a href="index-agency.html">Agency</a></li>
-                                    <li><a href="index-apps.html">Application</a></li>
-                                    <li><a href="index-classic-app.html">Classic Application</a></li>
-                                    <li><a href="index-studio.html">Studio</a></li>
-                                    <li><a href="index-business.html">Business</a></li>
-                                    <li><a href="index-modern-business.html">Modern Business</a></li>
-                                    <li><a href="index-hotel.html">Hotel</a></li>
-                                    <li><a href="index-marketing.html">Marketing</a></li>
-                                    <li><a href="index-enterprise.html">Enterprise </a></li>
-                                </ul>
-                            </li>
-
-                            <li>
-                                <ul>
-                                    <li><a href="index-insurance.html">Insurance <span class="badge badge-danger rounded">v 2.2</span></a></li>
-                                    <li><a href="index-shop.html">Shop <span class="badge badge-danger rounded">v 2.2</span></a></li>
-                                    <li><a href="index-ebook.html">E-Book <span class="badge badge-danger rounded">v 2.2</span></a></li>
-                                    <li><a href="index-coworking.html">Coworking</a></li>
-                                    <li><a href="index-personal.html">Personal </a></li>
-                                    <li><a href="index-services.html">Service </a></li>
-                                    <li><a href="index-payments.html">Payments </a></li>
-                                    <li><a href="index-crypto.html">Cryptocurrency </a></li>
-                                    <li><a href="index-software.html">Software </a></li>
-                                    <li><a href="index-car-riding.html">Car Ride</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <ul>
-                                    <li><a href="index-hosting.html">Hosting & Domain</a></li>
-                                    <li><a href="index-event.html">Event</a></li>
-                                    <li><a href="index-course.html">Course </a></li>
-                                    <li><a href="index-online-learning.html">Online Learning</a></li>
-                                    <li><a href="index-single-product.html">Product </a></li>
-                                    <li><a href="index-portfolio.html">Portfolio </a></li>
-                                    <li><a href="index-job.html">Job</a></li>
-                                    <li><a href="index-customer.html">Customer</a></li>
-                                    <li><a href="index-social-marketing.html">Social Media</a></li>
-                                    <li><a href="index-digital-agency.html">Digital Agency</a></li>
-                                    <li><a href="index-onepage.html">Saas <span class="badge badge-pill badge-warning ml-2">Onepage</span></a></li>
-                                </ul>
-                            </li>   
-                        </ul>
-                    </li>
-    
-                    <li class="has-submenu">
-                        <a href="javascript:void(0)">Pages</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                            <li><a href="page-aboutus.html"> About Us</a></li>
-                            <li><a href="page-services.html">Services</a></li>
-                            <li><a href="page-pricing.html">Pricing</a></li>
-                            <li><a href="page-team.html"> Team</a></li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Account</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-profile.html">Profile</a></li>
-                                    <li><a href="page-profile-edit.html">Account Setting</a></li>
-                                    <li><a href="page-invoice.html">Invoice</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Shop <span class="badge badge-danger rounded">v 2.2</span></a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="shop-products.html">All Products <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="shop-product-detail.html">Product Details <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="shop-cart.html">Shop Cart <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="shop-checkouts.html">Checkouts <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="shop-myaccount.html">My Account <span class="badge badge-primary rounded">new</span></a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Help center <span class="badge badge-danger rounded">v 2.2</span></a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="helpcenter-overview.html">Helpcenter <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="helpcenter-faqs.html">Faqs <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="helpcenter-guides.html">Guides <span class="badge badge-primary rounded">new</span></a></li>
-                                    <li><a href="helpcenter-support-request.html">Support Call <span class="badge badge-primary rounded">new</span></a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Email Template</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="email-confirmation.html">Confirmation</a></li>
-                                    <li><a href="email-password-reset.html">Reset Password</a></li>
-                                    <li><a href="email-alert.html">Alert</a></li>
-                                    <li><a href="email-invoice.html">Invoice</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)">Careers</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-jobs.html">Jobs</a></li>
-                                    <li><a href="page-jobs-sidebar.html">Jobs - Sidebar</a></li>
-                                    <li><a href="page-job-detail.html">Job Detail</a></li>
-                                    <li><a href="page-job-apply.html">Job Apply</a></li>
-                                    <li><a href="page-job-company.html">Company</a></li>
-                                    <li><a href="page-job-candidate.html">Candidate</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Blog</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-blog-grid.html">Blog Grid</a></li>
-                                    <li><a href="page-blog-sidebar.html">Blog with Sidebar</a></li>
-                                    <li><a href="page-blog-list.html">Blog Listing</a></li>
-                                    <li><a href="page-blog-list-sidebar.html">Blog List & Sidebar</a></li>
-                                    <li><a href="page-blog-detail.html">Blog Detail</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Works</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-work-modern.html">Works Modern</a></li>
-                                    <li><a href="page-work-classic.html">Works Classic</a></li>
-                                    <li><a href="page-work-grid.html">Works Grid</a></li>
-                                    <li><a href="page-work-masonry.html">Works Masonry</a></li>
-                                    <li><a href="page-work-detail.html">Work Detail</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Auth Pages</a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="auth-login.html">Login</a></li>
-                                    <li><a href="auth-cover-login.html">Login Cover</a></li>
-                                    <li><a href="auth-login-three.html">Login Simple</a></li>
-                                    <li><a href="auth-signup.html">Signup</a></li>
-                                    <li><a href="auth-cover-signup.html">Signup Cover</a></li>
-                                    <li><a href="auth-signup-three.html">Signup Simple</a></li>
-                                    <li><a href="auth-re-password.html">Reset Password</a></li>
-                                    <li><a href="auth-cover-re-password.html">Reset Password Cover</a></li>
-                                    <li><a href="auth-re-password-three.html">Reset Password Simple</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Utility </a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-terms.html">Terms of Services</a></li>
-                                    <li><a href="page-privacy.html">Privacy Policy</a></li>
-                                </ul>  
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Special </a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-comingsoon.html">Coming Soon</a></li>
-                                    <li><a href="page-comingsoon2.html">Coming Soon Two </a></li>
-                                    <li><a href="page-maintenance.html">Maintenance</a></li>
-                                    <li><a href="page-error.html">Error</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-submenu"><a href="javascript:void(0)"> Contact </a><span class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-contact-detail.html">Contact Detail </a></li>
-                                    <li><a href="page-contact-one.html">Contact One </a></li>
-                                    <li><a href="page-contact-two.html">Contact Two </a></li>
-                                    <li><a href="page-contact-three.html">Contact Three </a></li>
-                                </ul>  
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="has-submenu">
-                        <a href="javascript:void(0)">Docs</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                            <li><a href="documentation.html">Documentation </a></li>
-                            <li><a href="changelog.html">Changelog </a></li>
-                            <li><a href="components.html">Components</a></li>
-                            <li><a href="widget.html">Widget</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="index.html">Serviços</a></li>
+                    <li><a href="index.html">Contato</a></li>
+                    
                 </ul><!--end navigation menu-->
-                <div class="buy-menu-btn d-none">
-                    <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary">Buy Now</a>
-                </div><!--end login button-->
+                
             </div><!--end navigation-->
         </div><!--end container-->
     </header><!--end header-->
     <!-- Navbar End -->
     
     <!-- Hero Start -->
-    <section class="bg-half-170 border-bottom d-table w-100" id="home">
+    <section class="home-slider position-relative">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item align-items-center active" style="background-image:url('images/dm.jpg');">
+                    <div class="bg-overlay"></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 text-center">
+                                <div class="title-heading mt-4">
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Private office and Co-working space for <span class="text-success">$19</span></h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Coworking  Space For a Success</h1>
+                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                                    <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
+                                        <a href="javascript:void(0)" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i> Get Started</a>
+                                    </div>
+                                </div>
+                            </div><!--end col-->
+                        </div><!--end row-->
+                    </div><!--end container-->
+                </div><!--end carousel item-->
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/dm2.jpg');">
+                    <div class="bg-overlay"></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 text-center">
+                                <div class="title-heading mt-4">
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">The Best Coworking in The City</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Office Space in Vietnam</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                                    <div class="text-center subcribe-form mt-4 pt-2 animated fadeInUpBig animation-delay-11">
+                                    </div><!--end subscribe form-->
+                                </div>
+                            </div><!--end col-->
+                        </div><!--end row-->
+                    </div><!--end container-->
+                </div><!--end carousel item-->
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/dm3.jpg');">
+                    <div class="bg-overlay"></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 text-center">
+                                <div class="title-heading mt-4">
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Our Space for You</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Own Your Office For A Day</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                                    <div class="watch-video mt-4 pt-2 animated fadeInUpBig animation-delay-11">
+                                        <a href="http://vimeo.com/99025203" class="video-play-icon watch text-white title-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white title-dark position-relative play play-iconbar"></i> WATCH VIDEO</a>
+                                    </div>
+                                </div>
+                            </div><!--end col-->
+                        </div><!--end row-->
+                    </div><!--end container-->
+                </div><!--end carousel item-->
+            </div><!--end carousel inner-->
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div><!--end carousel-->
+    </section><!--end section-->
+    <!-- Navbar End -->
+    
+    
+   
+
+    <!-- Hero Start -->
+    <section class="bg-half-170 border-bottom d-table w-100 sect2" id="home">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7">
@@ -284,6 +196,72 @@
     </section><!--end section-->
     <!-- Hero End -->
     
+    <section class="container-fluid">
+        <div class="container mt-100 mt-60">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="section-title">
+                        <h4 class="title mb-4">See everything about your <span class="text-primary">Landrick</span> Business</h4>
+                        <p class="text-muted para-desc">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <ul class="list-unstyled feature-list text-muted">
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Our Talented & Experienced Marketing Agency</li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Create your own skin to match your brand</li>
+                        </ul>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-lg-6">
+                    <div class="row ml-lg-5" id="counter">
+                        <div class="col-md-6 col-12">
+                            <div class="row">
+                                <div class="col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
+                                    <div class="card counter-box border-0 bg-light shadow text-center rounded">
+                                        <div class="card-body py-5">
+                                            <h2 class="mb-0"><span class="counter-value" data-count="97">3</span>%</h2>
+                                            <h5 class="counter-head mb-0">Happy Client</h5>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+
+                                <div class="col-12 mt-4 pt-2">
+                                    <div class="card counter-box border-0 bg-primary shadow text-center rounded">
+                                        <div class="card-body py-5">
+                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="15">1</span>+</h2>
+                                            <h5 class="counter-head mb-0 title-dark text-light">Awards</h5>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+                            </div><!--end Row-->
+                        </div><!--end col-->
+
+                        <div class="col-md-6 col-12">
+                            <div class="row pt-lg-4 mt-lg-4">
+                                <div class="col-12 mt-4 pt-2">
+                                    <div class="card counter-box border-0 bg-success shadow text-center rounded">
+                                        <div class="card-body py-5">
+                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="2">0</span>K</h2>
+                                            <h5 class="counter-head mb-0 title-dark text-light">Job Placement</h5>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+                                
+                                <div class="col-12 mt-4 pt-2">
+                                    <div class="card counter-box border-0 bg-light shadow text-center rounded">
+                                        <div class="card-body py-5">
+                                            <h2 class="mb-0"><span class="counter-value" data-count="98">3</span>%</h2>
+                                            <h5 class="counter-head mb-0">Project Complete</h5>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+                            </div><!--end Row-->
+                        </div><!--end col-->
+                    </div><!--end Row-->
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
+    </section>
+
     <!-- Feature Start -->
     <section class="section">
         <div class="container">
@@ -380,7 +358,7 @@
     <!-- End feature -->
 
     <!-- CTA Start -->
-    <section class="section bg-cta p-5" data-jarallax='{"speed": 0.5}' style="background: url('images/dm2.jpg'); " id="cta">
+    <section class="section bg-cta NossoLitoral" data-jarallax='{"speed": 0.5}' style="background: url('images/dm2.jpg'); " id="cta">
         <div class="bg-overlay"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -787,7 +765,8 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/magnific.init.js"></script> 
     <script src="js/jquery.mb.YTPlayer.min.js"></script>
-    
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/owl.init.js"></script>
     <!-- Typed -->
     <script src="js/typed.js"></script>
     <script src="js/typed.init.js"></script>
