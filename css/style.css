@@ -4482,9 +4482,20 @@ p {
   padding: 4rem!important;
 }
 
-.sect2 {
-  margin-bottom: -50px;
+.sect3 {
+  margin-bottom: -40px!important;
 }
+.sect3 {
+  margin-bottom: 40px!important;
+}
+
+.bg-greenLight {
+  background-color: #1C8956;
+}
+.bg-green {
+  background-color: #33673B;
+}
+
 
 #style-switcher {
   background: none repeat scroll 0 0 #ffffff;
