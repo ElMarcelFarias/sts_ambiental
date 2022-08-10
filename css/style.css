@@ -4495,6 +4495,19 @@ p {
 .bg-green {
   background-color: #33673B;
 }
+.logodm {
+  height: 100px;
+  margin: 10px;
+}
+.navlogo {
+  padding-top: 20px!important;
+}
+
+
+.cards-image-dm {
+  height: 650px;
+}
+
 
 
 #style-switcher {
