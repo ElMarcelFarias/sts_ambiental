@@ -19,7 +19,6 @@
     <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
     <!-- Icons -->
     <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="../../../unicons.iconscout.com/release/v2.1.7/css/unicons.css">
     <!-- Slider -->               
     <link rel="stylesheet" href="css/owl.carousel.min.css"/> 
     <link rel="stylesheet" href="css/owl.theme.default.min.css"/> 
@@ -30,8 +29,6 @@
     <!-- Main Css -->
     <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
     <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
-    <link rel="stylesheet" href="css/styledevo.css">
-
 </head>
 
 
@@ -873,27 +870,27 @@
                         )
                 } else {
                     $.ajax({
-                        url: 'php/email.php',
+                        url: 'email.php',
                         type: 'POST',
                         data: $(this).serialize(),
-                        cache: false
+                        cache: false,
+                        success:function(data){
+                        Swal.fire({
+                            title: 'Email enviado com sucesso!',
+                            text: 'Sua mensagem foi enviadam para DM Ambiental!',
+                            icon: 'success'
+                        }).then(()=>{
+                            window.location.reload();
+                        })
+                        
+                        }
                     })
+                    
                 }
             })
         })
 
     </script>
-
-    <?php
-        if(isset($_GET['true'])) {?>
-        <script>
-            Swal.fire(
-            'Email enviado com sucesso!',
-            'Sua mensagem foi enviadam para DM Ambiental!',
-            'success'
-            )
-        </script>  
-    <?php } ?>
 </body>
 
 <!-- Mirrored from www.shreethemes.in/landrick/layouts/index-business.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 13:39:13 GMT -->
