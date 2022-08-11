@@ -420,7 +420,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Auditoria Ambiental</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Investigação detalhada e avaliação de risco</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contado <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
                             </ul>
@@ -438,7 +438,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto de Aterro Sanitário</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Consultoria para Coleta Seletiva</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contado <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-check-all mdi-36px"></i></li>
                             </ul>
@@ -458,7 +458,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Anuencia de Supressão Vegetal</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Regularização de Área</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contado <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
                             </ul>
@@ -561,14 +561,14 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
                         <div class="page-next-level">
-                            <h4 class="title">Contact Us</h4>
+                            <h4 class="title">Nosso Contato</h4>
                             <div class="page-next">
                                 <nav aria-label="breadcrumb" class="d-inline-block">
                                     <ul class="breadcrumb bg-white rounded shadow mb-0">
-                                        <li class="breadcrumb-item"><a href="index.html">Landrick</a></li>
-                                        <li class="breadcrumb-item"><a href="#">Page</a></li>
-                                        <li class="breadcrumb-item"><a href="#">Contact</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Contact One</li>
+                                        <li class="breadcrumb-item"><a href="index.html">DM Ambiental</a></li>
+                                        <li class="breadcrumb-item"><a href="#">Página</a></li>
+                                        <li class="breadcrumb-item"><a href="#">Contato</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Vias de contato</li>
                                     </ul>
                                 </nav>
                             </div>
@@ -588,9 +588,9 @@
                                     <img src="images/icon/bitcoin.svg" class="avatar avatar-small" alt="">
                                 </div>
                                 <div class="content mt-3">
-                                    <h4 class="title font-weight-bold">Phone</h4>
-                                    <p class="text-muted">Start working with Landrick that can provide everything</p>
-                                    <a href="tel:+152534-468-854" class="text-primary">+152 534-468-854</a>
+                                    <h4 class="title font-weight-bold">Telefone para contato</h4>
+                                    <p class="text-muted">Estamos ansiosos para conversarmos!</p>
+                                    <a href="tel:+44 (41) 3722-5782" class="text-primary">+44 (41) 3722-5782</a>
                                 </div>
                             </div>
                         </div>
@@ -603,9 +603,9 @@
                                     <img src="images/icon/Email.svg" class="avatar avatar-small" alt="">
                                 </div>
                                 <div class="content mt-3">
-                                    <h4 class="title font-weight-bold">Email</h4>
-                                    <p class="text-muted">Start working with Landrick that can provide everything</p>
-                                    <a href="mailto:contact@example.com" class="text-primary">contact@example.com</a>
+                                    <h4 class="title font-weight-bold">E-mail para contato</h4>
+                                    <p class="text-muted">Estamos esperando seu contato via email!</p>
+                                    <a href="mailto:dmambiental@dmambiental.com" class="text-primary">dmambiental@dmambiental.com</a>
                                 </div>
                             </div>
                         </div>
@@ -618,9 +618,9 @@
                                     <img src="images/icon/location.svg" class="avatar avatar-small" alt="">
                                 </div>
                                 <div class="content mt-3">
-                                    <h4 class="title font-weight-bold">Location</h4>
-                                    <p class="text-muted">C/54 Northwest Freeway, Suite 558, <br>Houston, USA 485</p>
-                                    <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5%3A0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin" class="video-play-icon h6 text-primary">View on Google map</a>
+                                    <h4 class="title font-weight-bold">Localização</h4>
+                                    <p class="text-muted">R. José Gomes, 340 - João Gualberto, Paranaguá - PR, 83203-610</p>
+                                    <a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094667701553!2d-48.5159697!3d-25.5201391!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9b8c5b502797%3A0x70cb986b74e31475!2sDM%20Ambiental!5e0!3m2!1spt-BR!2sbr!4v1660246130826!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="video-play-icon h6 text-primary">View on Google map</a>
                                 </div>
                             </div>
                         </div>
@@ -714,7 +714,7 @@
             <div class="row">
                 <div class="col-12 p-0">
                     <div class="map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3578.083339634616!2d-48.855752985312115!3d-26.258958472578183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deafbe3ebf0c05%3A0x624c0303ba7bf8a7!2sSENAI%20Joinville%20Norte%20I!5e0!3m2!1spt-BR!2sbr!4v1657061099892!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094673701738!2d-48.511592!3d-25.520139000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9a5c61497b59%3A0xb229d5f57354dddf!2sR.%20Jos%C3%A9%20Gomes%2C%20340%20-%20Jo%C3%A3o%20Gualberto%2C%20Paranagu%C3%A1%20-%20PR%2C%2083203-610!5e0!3m2!1spt-BR!2sbr!4v1660245759618!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div><!--end col-->
             </div><!--end row-->
