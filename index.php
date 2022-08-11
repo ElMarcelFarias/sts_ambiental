@@ -113,9 +113,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">The Best Coworking in The City</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Office Space in Vietnam</h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Lorem Lorem lorem tdjalrch master skidd</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">lorem lorem lorem </h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt officia qui aliquam ratione.</p>
                                     <div class="text-center subcribe-form mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                                     </div><!--end subscribe form-->
                                 </div>
@@ -130,9 +130,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Our Space for You</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Own Your Office For A Day</h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Our Lorem for Lorem</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Own Lorem Office For Lorem</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt officia qui aliquam ratione. Deserunt officia qui aliquam ratione.</p>
                                     <div class="watch-video mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                                         <a href="https://www.youtube.com/watch?v=x3KhFjcbqJw" class="video-play-icon watch text-white title-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white title-dark position-relative play play-iconbar"></i> WATCH VIDEO</a>
                                     </div>
@@ -163,8 +163,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-7">
                     <div class="title-heading mt-4">
-                        <h1 class="heading mb-3">Leading Digital Business For <span class="element text-primary" data-elements="Agency, Software, Technology, Studio, Webapps"></span> Solution</h1>
-                        <p class="para-desc text-muted">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
+                        <h1 class="heading mb-3">Leading Lorem Lorem For <span class="element text-primary" data-elements="Agency, Software, Technology, Studio, Webapps"></span> Lorem</h1>
+                        <p class="para-desc text-muted">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, aut dolores laborum inventore perferendis suscipit commodi animi laudantium ut </p>
                     </div>
                 </div><!--end col-->
 
