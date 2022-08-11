@@ -4503,7 +4503,14 @@ p {
   padding-top: 20px!important;
 }
 
+.bg-transparent {
+  background: transparent!important;
+}
 
+.contact {
+  height: 380px;
+  margin-left: 145px;
+}
 .cards-image-dm {
   height: 650px;
 }
