@@ -639,48 +639,67 @@
                                 <h4 class="card-title">Entre em Contato !</h4>
                                 <div class="custom-form mt-4">
                                     <div id="message"></div>
-                                    <form method="post" action="http://www.shreethemes.in/landrick/layouts/php/contact.php" name="contact-form" id="contact-form">
+
+                                    <form method="POST" name="contact-form" id="contact-form">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group position-relative">
-                                                    <label>Your Name <span class="text-danger">*</span></label>
+                                                    <label>Nome <span class="text-danger">*</span></label>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user fea icon-sm icons"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
-                                                    <input name="name" id="name" type="text" class="form-control pl-5" placeholder="First Name :">
-                                                </div>
-                                            </div><!--end col-->
-                                            <div class="col-md-6">
-                                                <div class="form-group position-relative">
-                                                    <label>Your Email <span class="text-danger">*</span></label>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail fea icon-sm icons"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-                                                    <input name="email" id="email" type="email" class="form-control pl-5" placeholder="Your email :">
-                                                </div> 
-                                            </div><!--end col-->
-                                            <div class="col-md-12">
-                                                <div class="form-group position-relative">
-                                                    <label>Subject</label>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book fea icon-sm icons"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
-                                                    <input name="subject" id="subject" type="text" class="form-control pl-5" placeholder="Subject">
-                                                </div>                                                                               
-                                            </div><!--end col-->
-                                            <div class="col-md-12">
-                                                <div class="form-group position-relative">
-                                                    <label>Comments</label>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-message-circle fea icon-sm icons"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
-                                                    <textarea name="comments" id="comments" rows="4" class="form-control pl-5" placeholder="Your Message :"></textarea>
+                                                    <input name="nome" id="nome" type="text" class="form-control pl-5" placeholder="Nome Completo :">
                                                 </div>
                                             </div>
-                                        </div><!--end row-->
+
+                                            <div class="col-md-6">
+                                                <div class="form-group position-relative">
+                                                    <label>Telefone <span class="text-danger">*</span></label> 
+                                                    <svg aria-hidden="true" focusable="false" class="icon fea icon-sm icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em"><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"/></svg> 
+                                                    <input name="telefone" id="telefone" type="text" class="form-control pl-5" placeholder="Digite seu telefone : ">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <div class="form-group position-relative">
+                                                    <label>Email <span class="text-danger">*</span></label>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail fea icon-sm icons"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                                                    <input name="email" id="email" type="email" class="form-control pl-5" placeholder="Seu email :">
+                                                </div> 
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <div class="form-group position-relative">
+                                                    <label>Assunto<span class="text-danger">*</span></label>
+                                                    
+                                                    <select class="form-control custom-select" name="assunto" id="assunto">
+                                                        <option value="Dúvida">Dúvida</option>
+                                                        <option value="Orçamento">Orçamento</option>
+                                                        <option value="Trabalhe conosco">Trabalhe conosco</option>
+                                                    </select>
+
+                                                </div>                                                                               
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <div class="form-group position-relative">
+                                                    <label>Mensagem</label>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-message-circle fea icon-sm icons"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                                                    <textarea name="mensagem" id="mensagem" rows="4" class="form-control pl-5" placeholder="Sua mensagem :"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                         <div class="row">
                                             <div class="col-sm-12 text-center">
-                                                <input type="submit" id="submit" name="send" class="submitBnt btn btn-primary btn-block" value="Send Message">
+                                                <input type="submit" class="submitBnt btn btn-primary btn-block" value="Enviar">
                                                 <div id="simple-msg"></div>
-                                            </div><!--end col-->
-                                        </div><!--end row-->
-                                    </form><!--end form--> 
-                                </div><!--end custom-form-->
+                                            </div>
+
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
 
                     <div class="col-lg-7 col-md-6 order-1 order-md-2 ">
                         <div class="card border-0 bg-transparent">
@@ -688,10 +707,10 @@
                                 <img src="images/email.svg" class="img-fluid contact" alt="">
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
 
-                </div><!--end row-->
-            </div><!--end container-->
+                </div>
+            </div>
         </section>
 
         <div class="container-fluid mt-100 mt-60">
@@ -826,12 +845,55 @@
     <script src="../../../unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"></script>
     <!-- Main Js -->
     <script src="js/app.js"></script>
+    <script src="js/sweetalert2.js"></script>
     <script>
         AOS.init({
             easing: 'ease-in-out-sine',
             duration: 1000
         });
+
+        //envio de email, validação via AJAX com Jquery
+
+        $(document).ready(function(){
+        $("#contact-form").submit(function(e){
+                e.preventDefault();
+
+                var nome = $("#nome").val();
+                var telefone = $("#telefone").val();
+                var email = $("#email").val();
+                var assunto = $("#assunto").val();
+                var mensagem = $("#mensagem").val();
+
+                
+                if((nome == '') || (telefone == '') || (email == '') || (mensagem == '') || (assunto == '')) {
+                    Swal.fire(
+                        'Erro',
+                        'Por favor, preencha os campos corretamente!',
+                        'error'
+                        )
+                } else {
+                    $.ajax({
+                        url: 'php/email.php',
+                        type: 'POST',
+                        data: $(this).serialize(),
+                        cache: false
+                    })
+                }
+            })
+        })
+
     </script>
+
+    <?php
+        if(isset($_GET['true'])) {?>
+        <script>
+            Swal.fire(
+            'Email enviado com sucesso!',
+            'Sua mensagem foi enviadam para DM Ambiental!',
+            'success'
+            )
+        </script>  
+    <?php } ?>
 </body>
 
 <!-- Mirrored from www.shreethemes.in/landrick/layouts/index-business.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 13:39:13 GMT -->
