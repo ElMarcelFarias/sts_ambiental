@@ -668,9 +668,9 @@
                                                     <label>Assunto<span class="text-danger">*</span></label>
                                                     
                                                     <select class="form-control custom-select" name="assunto" id="assunto">
-                                                        <option value="Dúvida">Dúvida</option>
-                                                        <option value="Orçamento">Orçamento</option>
-                                                        <option value="Trabalhe conosco">Trabalhe conosco</option>
+                                                        <option value="1">Dúvida</option>
+                                                        <option value="2">Orçamento</option>
+                                                        <option value="3">Trabalhe conosco</option>
                                                     </select>
 
                                                 </div>                                                                               
