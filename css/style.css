@@ -4513,6 +4513,23 @@ p {
 }
 .cards-image-dm {
   height: 650px;
+} 
+
+
+
+.carousel-dm {
+  margin-bottom: 200px;
+  margin-top: 150px;
+}
+
+.carouse-vh {
+  height: 60vh;
+  width: 100%;
+}
+
+.carousel-vh-inner {
+  height: 89vh;
+  width: 100%;
 }
 
 

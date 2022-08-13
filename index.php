@@ -365,37 +365,7 @@
     </section><!--end section-->
     <!-- CTA End -->
 
-    <section class="section">
-        <div class="col mt-4 pt-2" id="cards">
-            <div class="component-wrapper rounded shadow">
-                
-                    <div class="row text-center w-100">
-                        <div class="col-lg-6 col-12 mt-4 pt-2">
-                            <div class="card shadow rounded border-0 overflow-hidden">
-                                <img src="images/card1.jpg" class="img-fluid cards-image-dm" alt="">
-                                <div class="card-body bg-greenLight text-white">
-                                    <h5 class="card-title text-white">Saas &amp; Software : Landrick</h5>
-                                    <p class="text-white">Due to its widespread use as filler text for layouts, non-readability is of great importance</p>
-                                </div>
-                            </div>
-                        </div><!--end col-->
-
-                        <div class="col-lg-6 col-12 mt-4 pt-2">
-                            <div class="card shadow rounded border-0 overflow-hidden">
-                                <div class="card-body bg-green">
-                                    <h5 class="card-title text-white">Saas &amp; Software : Landrick</h5>
-                                    <p class="text-white">Due to its widespread use as filler text for layouts, non-readability is of great importance</p>
-                                </div>
-                                <img src="images/card2.jpg" class="img-fluid cards-image-dm" alt="">
-                            </div>
-                        </div><!--end col-->
-                    </div>
-
-                
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <!-- Price Start -->
     <section class="section"><!--(.work-process) css write in (_feature.scss)-->
@@ -471,6 +441,34 @@
         </div><!--end container-->
     </section>
     <!-- Counter End -->
+
+
+    <section class="home-slider position-relative carousel-dm">
+        <div id="carouselExampleControls2" class="carousel slide carouse-vh" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item align-items-center active" style="background-image:url('images/carousel-dm-1.jpg');">
+                <div class="bg-overlay"></div>
+                </div><!--end carousel item-->
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-2.jpg');">
+                <div class="bg-overlay"></div>
+                </div><!--end carousel item-->
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-3.jpg');">
+                <div class="bg-overlay"></div>
+                </div><!--end carousel item-->
+            </div><!--end carousel inner-->
+            <a class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls2" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div><!--end carousel-->
+    </section><!--end section-->
+    
 
     <!-- News Start -->
     <section class="section bg-light">
