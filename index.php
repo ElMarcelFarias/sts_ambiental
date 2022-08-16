@@ -1,32 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="utf-8" />
     <title>DM AMBIENTAL</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
-    <meta name="keywords" content="Saas, Software, multi-uses, HTML, Clean, Modern" />
-    <meta name="author" content="Shreethemes" />
-    <meta name="email" content="shreethemes@gmail.com" />
-    <meta name="website" content="http://www.shreethemes.in/" />
-    <meta name="Version" content="v2.2" />
-    <!-- favicon -->
+    <meta name="description" content="DM Ambiental, Serviços ambientais, Somos a DM, uma consultoria ambiental completa com foco em entregar estudos de qualidade e soluções ambientais com responsabilidade." />
+    <meta name="keywords" content="Serviços Ambientais, ambiental, gestão ambiental, Assessoria Especializada, Auditoria Ambiental" />
+    <meta name="author" content="Marcel Leite de Farias" />
+
     <link rel="shortcut icon" href="images/logo.png">
-    <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <!-- Magnific -->
     <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
-    <!-- Icons -->
     <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
-    <!-- Slider -->               
     <link rel="stylesheet" href="css/owl.carousel.min.css"/> 
     <link rel="stylesheet" href="css/owl.theme.default.min.css"/> 
-    <!-- Animation -->
     <link href="css/animate.css" rel="stylesheet" />
     <link href="css/animations-delay.css" rel="stylesheet" /> 
     <link href="css/aos.css" rel="stylesheet" type="text/css" />
-    <!-- Main Css -->
     <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
     <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
 </head>
@@ -36,7 +27,6 @@
 
 </style>
 <body>
-    <!-- Loader  NÃO ESQUECER DE DESCOMENTAR ESSA LINHA PARA O LOADER APARECER-->
      <div id="preloader">
         <div id="status">
             <div class="spinner">
@@ -45,22 +35,17 @@
             </div>
         </div>
     </div> 
-    <!-- Loader -->
 
-    <!-- Navbar STart -->
     <header id="topnav" class="defaultscroll sticky">
         <div class="container">
-            <!-- Logo container-->
             
             <div>
                 <a class="logo" href="index.html">
                     <img src="images/logo.png" class="logodm" id="logo"alt="">
                 </a>
             </div>                 
-            <!-- End Logo container-->
             <div class="menu-extras">
                 <div class="menu-item">
-                    <!-- Mobile menu toggle-->
                     <a class="navbar-toggle" id="nav-logo">
                         <div class="lines" id="lines" style="margin-top:50px"> 
                             <span></span>
@@ -68,25 +53,21 @@
                             <span></span>
                         </div>
                     </a>
-                    <!-- End mobile menu toggle-->
                 </div>
             </div>
     
             <div id="navigation">
-                <!-- Navigation Menu-->   
                 <ul class="navigation-menu nav-light navlogo">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="index.html">Serviços</a></li>
                     <li><a href="index.html">Contato</a></li>
-                    
-                </ul><!--end navigation menu-->
+                </ul>
                 
-            </div><!--end navigation-->
-        </div><!--end container-->
-    </header><!--end header-->
-    <!-- Navbar End -->
+            </div>
+        </div>
+    </header>
     
-    <!-- Hero Start -->
+    
     <section class="home-slider position-relative">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
@@ -96,16 +77,16 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Soluções Ambientais</h1>
-                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">A mente desenvolve-se como o corpo, mediante crescimento orgânico, influência ambiental e educação. Seu desenvolvimento pode ser inibido por enfermidade física, trauma ou má educação.</p>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Quem Somos?</h1>
+                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Somos a DM, uma consultoria ambiental completa com foco em entregar estudos de qualidade e soluções ambientais com responsabilidade.</p>
                                     <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                                         <a href="javascript:void(0)" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i>Solicitar atendimento</a>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                        </div><!--end row-->
-                    </div><!--end container-->
-                </div><!--end carousel item-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="carousel-item align-items-center" style="background-image:url('images/dm2.jpg');">
                     <div class="bg-overlay"></div>
@@ -113,16 +94,15 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Lorem Lorem lorem tdjalrch master skidd</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">lorem lorem lorem </h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt officia qui aliquam ratione.</p>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Qual é o nosso objetivo? </h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Nosso maior objetivo é encontrar um ponto de equilíbrio entre o desenvolvimento e o meio ambiente. </p>
                                     <div class="text-center subcribe-form mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                    </div><!--end subscribe form-->
+                                    </div>
                                 </div>
-                            </div><!--end col-->
-                        </div><!--end row-->
-                    </div><!--end container-->
-                </div><!--end carousel item-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="carousel-item align-items-center" style="background-image:url('images/dm3.jpg');">
                     <div class="bg-overlay"></div>
@@ -130,18 +110,17 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Our Lorem for Lorem</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Own Lorem Office For Lorem</h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt officia qui aliquam ratione. Deserunt officia qui aliquam ratione.</p>
+                                    <h1 class="text-light para-dark animated fadeInDownBig animation-delay-1">Nosso Litoral</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Uma consultoria ambiental que visa ir muito além do cumprimento de normas e legislações, proporcionando aos nossos clientes todo suporte necessário por meio dos preceitos do desenvolvimento sustentável.</p>
                                     <div class="watch-video mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                        <a href="https://www.youtube.com/watch?v=x3KhFjcbqJw" class="video-play-icon watch text-white title-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white title-dark position-relative play play-iconbar"></i> WATCH VIDEO</a>
+                                        <a href="https://www.youtube.com/watch?v=x3KhFjcbqJw" class="video-play-icon watch text-white title-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-circle text-white title-dark position-relative play play-iconbar"></i> ASSISTA O VIDEO</a>
                                     </div>
                                 </div>
-                            </div><!--end col-->
-                        </div><!--end row-->
-                    </div><!--end container-->
-                </div><!--end carousel item-->
-            </div><!--end carousel inner-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -150,48 +129,44 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
-        </div><!--end carousel-->
-    </section><!--end section-->
-    <!-- Navbar End -->
+        </div>
+    </section>
     
     
-   
-
-    <!-- Hero Start -->
     <section class="bg-half-170 border-bottom d-table w-100 sect2" id="home">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-7">
                     <div class="title-heading mt-4">
-                        <h1 class="heading mb-3">Leading Lorem Lorem For <span class="element text-primary" data-elements="Agency, Software, Technology, Studio, Webapps"></span> Lorem</h1>
-                        <p class="para-desc text-muted">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, aut dolores laborum inventore perferendis suscipit commodi animi laudantium ut </p>
+                        <h4 class="heading mb-3">Prezamos pela <span class="element text-primary" data-elements="Qualidade, Solução, Eficiência, Profissionalismo, Satisfação, Responsabilidade"></span> <br>e celeridade no atendimento ao cliente.</h4>
+                        <p class="para-desc text-muted">Adotamos métodos eficazes e práticos.   </p>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="position-relative">
                         <img src="images/mao_ambiente.svg" class="rounded img-fluid mx-auto d-block" alt="">
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container--> 
-    </section><!--end section-->
-    <!-- Hero End -->
+                </div>
+            </div>
+        </div>
+    </section>
     
     <section class="container-fluid">
         <div class="container mt-100 mt-60">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="section-title">
-                        <h4 class="title mb-4">See everything about your <span class="text-primary">Landrick</span> Business</h4>
-                        <p class="text-muted para-desc">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <h4 class="title mb-4">Qual é o nosso <span class="text-primary">diferencial</span> ?</h4>
+                        <p class="text-muted para-desc">Além de oferecermos uma  <span class="text-primary font-weight-bold">consultoria ambiental</span> personalizada, nos destacamos por motivos ímpares.</p>
                         <ul class="list-unstyled feature-list text-muted">
-                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Digital Marketing Solutions for Tomorrow</li>
-                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Our Talented & Experienced Marketing Agency</li>
-                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Create your own skin to match your brand</li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>+ de 6 anos de experiência na área</li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Equipe completa e especializada </li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Agilidade e praticidade perante órgãos públicos</li>
+                            <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Comunicação facilitada</li>
                         </ul>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-6">
                     <div class="row ml-lg-5" id="counter">
@@ -201,21 +176,21 @@
                                     <div class="card counter-box border-0 bg-light shadow text-center rounded">
                                         <div class="card-body py-5">
                                             <h2 class="mb-0"><span class="counter-value" data-count="97">3</span>%</h2>
-                                            <h5 class="counter-head mb-0">Happy Client</h5>
+                                            <h5 class="counter-head mb-0">Satisfação do Cliente</h5>
                                         </div>
                                     </div>
-                                </div><!--end col-->
+                                </div>
 
                                 <div class="col-12 mt-4 pt-2">
                                     <div class="card counter-box border-0 bg-primary shadow text-center rounded">
                                         <div class="card-body py-5">
-                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="15">1</span>+</h2>
-                                            <h5 class="counter-head mb-0 title-dark text-light">Awards</h5>
+                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="10">1</span>+</h2>
+                                            <h5 class="counter-head mb-0 title-dark text-light">Anos de Experiência</h5>
                                         </div>
                                     </div>
-                                </div><!--end col-->
-                            </div><!--end Row-->
-                        </div><!--end col-->
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="col-md-6 col-12">
                             <div class="row pt-lg-4 mt-lg-4">
@@ -223,25 +198,25 @@
                                     <div class="card counter-box border-0 bg-success shadow text-center rounded">
                                         <div class="card-body py-5">
                                             <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="2">0</span>K</h2>
-                                            <h5 class="counter-head mb-0 title-dark text-light">Job Placement</h5>
+                                            <h5 class="counter-head mb-0 title-dark text-light">DM Lover's</h5>
                                         </div>
                                     </div>
-                                </div><!--end col-->
+                                </div>
                                 
                                 <div class="col-12 mt-4 pt-2">
                                     <div class="card counter-box border-0 bg-light shadow text-center rounded">
                                         <div class="card-body py-5">
                                             <h2 class="mb-0"><span class="counter-value" data-count="98">3</span>%</h2>
-                                            <h5 class="counter-head mb-0">Project Complete</h5>
+                                            <h5 class="counter-head mb-0">Projetos Concluídos</h5>
                                         </div>
                                     </div>
-                                </div><!--end col-->
-                            </div><!--end Row-->
-                        </div><!--end col-->
-                    </div><!--end Row-->
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <section class="section pb-0" id="service">
@@ -250,12 +225,11 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-6">
                     <img src="images/sobre.svg" data-aos="fade-up" data-aos-duration="1800" class="img-fluid aos-init aos-animate" alt="">
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="section-title ml-lg-5">
                         <h4 class="title mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Por que escolher a DM Ambiental?</h4>
-                        <p class="text-muted aos-init aos-animate" data-aos="fade-up" data-aos-duration="1400">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                         <ul class="list-unstyled feature-list mb-0 text-muted aos-init aos-animate" data-aos="fade-up" data-aos-duration="1800">
                             <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Equipe (Trabalhamos com profissionais especializados  em todo âmbito ambiental)</b></li>
                             <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Gerenciamento de Projetos (Idealizadora do projeto)</b></li>
@@ -265,17 +239,12 @@
                             <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Solução (Trabalhamos com resultados)</b></li>
                         </ul>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-
-                </div><!--end row -->
+                </div>
             </div>
-        </div><!--end container-->
+        </div>
 
     </section>
 
-    <!-- Feature Start -->
     <section class="section sect3 mb-5">
         <div class="container mt-100 mt-60">
             <div class="row align-items-center">
@@ -285,12 +254,28 @@
                             <div class="card border-0 rounded mb-2">
                                 <a data-toggle="collapse" href="#collapseone" class="faq position-relative" aria-expanded="true" aria-controls="collapseone">
                                     <div class="card-header border-0 bg-light p-3 pr-5" id="headingfifone">
-                                        <h6 class="title mb-0"> How our <span class="text-primary">Landrick</span> work ? </h6>
+                                        <h6 class="title mb-0"> Quais serviços oferecemos? </h6>
                                     </div>
                                 </a>
                                 <div id="collapseone" class="collapse show" aria-labelledby="headingfifone" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
-                                        <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                        <ul class="text-muted mb-0 faq-ans">
+                                            <li>Laudo Técnico Ambiental</li>
+                                            <li>Plano de Gestão Ambiental</li>
+                                            <li>Programas de Educação ambiental</li>
+                                            <li>Plano de gerenciamento de resíduos (PGR)</li>
+                                            <li>Projeto de recuperação de áreas degradadas (PRAD)</li>
+                                            <li>Projeto e implantação de plantio compensatório</li>
+                                            <li>Plano Básico Ambiental (PBA)</li>
+                                            <li>Plano de Controle Ambiental (PCA)</li>
+                                            <li>Licenciamento Ambiental</li>
+                                            <li>Projeto de Arborização urbana</li>
+                                            <li>Plantios de reflorestamento e áreas compensatórias</li>
+                                            <li>Prontidão ambiental</li>
+                                            <li>EIV</li>
+                                            <li>RIT</li>
+                                            <li>Regularização Fundiária</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -298,12 +283,23 @@
                             <div class="card border-0 rounded mb-2">
                                 <a data-toggle="collapse" href="#collapsetwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsetwo">
                                     <div class="card-header border-0 bg-light p-3 pr-5" id="headingtwo">
-                                        <h6 class="title mb-0"> What is the main process open account ? </h6>
+                                        <h6 class="title mb-0"> Corpo Técnico </h6>
                                     </div>
                                 </a>
                                 <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
-                                        <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                        <ul class="text-muted mb-0 faq-ans">
+                                            <li>Engenheiro ambiental</li>
+                                            <li>Especialista em gestão ambiental</li>
+                                            <li>Técnico em segurança no trabalho</li>
+                                            <li>Engenheiro em segurança no trabalho</li>
+                                            <li>Gestor Portuário</li>
+                                            <li>Gestor Ambiental</li>
+                                            <li>Biólogo</li>
+                                            <li>Geólogo</li>
+                                            <li>Topógrafo</li>
+                                            <li>Consultor Jurídico</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -311,41 +307,28 @@
                             <div class="card border-0 rounded mb-2">
                                 <a data-toggle="collapse" href="#collapsethree" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsethree">
                                     <div class="card-header border-0 bg-light p-3 pr-5" id="headingthree">
-                                        <h6 class="title mb-0"> How to make unlimited data entry ? </h6>
+                                        <h6 class="title mb-0"> Locais de atuação ? </h6>
                                     </div>
                                 </a>
                                 <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
-                                        <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="card border-0 rounded mb-2">
-                                <a data-toggle="collapse" href="#collapsefour" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsefour">
-                                    <div class="card-header border-0 bg-light p-3 pr-5" id="headingfour">
-                                        <h6 class="title mb-0"> Is <span class="text-primary">Landrick</span> safer to use with my account ? </h6>
-                                    </div>
-                                </a>
-                                <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExampleone">
-                                    <div class="card-body px-2 py-4">
-                                        <p class="text-muted mb-0 faq-ans">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                        <ul class="text-muted mb-0 faq-ans">
+                                            <li>TODO O BRASIL.</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-5 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <img src="images/gestor_ambiente.svg" style="height: 450px;width: 450px;" class="img-fluid" alt="">
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-    </section><!--end section-->
-    <!-- End feature -->
+                </div>
+            </div>
+        </div>
+    </section>
 
-    <!-- CTA Start -->
     <section class="section bg-cta NossoLitoral sect2" data-jarallax='{"speed": 0.5}' style="background: url('images/dm2.jpg'); " id="cta">
         <div class="bg-overlay"></div>
         <div class="container">
@@ -359,16 +342,14 @@
                             <i data-feather="play" class="fea icon-ex-md text-white title-dark"></i>
                         </a>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-    </section><!--end section-->
-    <!-- CTA End -->
+                </div>
+            </div>
+        </div>
+    </section>
 
     
 
-    <!-- Price Start -->
-    <section class="section"><!--(.work-process) css write in (_feature.scss)-->
+    <section class="section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 text-center">
@@ -376,8 +357,8 @@
                         <h4 class="title mb-4">Nossos Serviços</h4>
                         <p class="text-muted para-desc mx-auto mb-0">Prezamos acima de tudo pela qualidade Cumprimento de prazos, Responsabilidade, consultoria e solucões ambientais e Regularização da sua empresa.</p>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
+                </div>
+            </div>
             
             <div class="row">
                 
@@ -396,7 +377,7 @@
                             </ul>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-md-4 mt-4 pt-2">
                     <div class="card work-process border-0 rounded shadow">
@@ -414,7 +395,7 @@
                             </ul>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-md-4 mt-4 pt-2">
                     <div class="card work-process border-0 rounded shadow">
@@ -434,13 +415,12 @@
                             </ul>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
                 
                 
-            </div><!--end row-->
-        </div><!--end container-->
+            </div>
+        </div>
     </section>
-    <!-- Counter End -->
 
 
     <section class="home-slider position-relative carousel-dm">
@@ -448,16 +428,16 @@
             <div class="carousel-inner">
                 <div class="carousel-item align-items-center active" style="background-image:url('images/carousel-dm-1.jpg');">
                 <div class="bg-overlay"></div>
-                </div><!--end carousel item-->
+                </div><
 
                 <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-2.jpg');">
                 <div class="bg-overlay"></div>
-                </div><!--end carousel item-->
+                </div>
 
                 <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-3.jpg');">
                 <div class="bg-overlay"></div>
-                </div><!--end carousel item-->
-            </div><!--end carousel inner-->
+                </div>
+            </div>
             <a class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -466,8 +446,8 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
-        </div><!--end carousel-->
-    </section><!--end section-->
+        </div>
+    </section>
     
     <section class="bg-half bg-light d-table w-100">
         <div class="container">
@@ -486,9 +466,9 @@
                             </nav>
                         </div>
                     </div>
-                </div>  <!--end col-->
-            </div><!--end row-->
-        </div> <!--end container-->
+                </div>  
+            </div>
+        </div> 
     </section>
 
     <section class="section">
@@ -496,24 +476,29 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="position-relative">
-                            <img src="images/about.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                            <img src="images/logo.png" class="rounded img-fluid mx-auto d-block" style="height:300px"  alt="">
                         </div>
-                    </div><!--end col-->
+                    </div>
 
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
-                            <h4 class="title mb-4">Our Story</h4>
-                            <p class="text-muted">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
+                            <h4 class="title mb-4">Sobre a DM Ambiental</h4>
+                            <p class="text-muted">A <span class="text-primary font-weight-bold">DM Ambiental</span> é uma consultoria que possui uma equipe multidisciplinar especializada na prestação de serviços ambientais. Que tem o foco nas soluções ambientais e burocráticas com responsabilidade.
+Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o meio ambiente.  Uma consultoria ambiental que visa ir muito além do cumprimento de normas e legislações, proporcionando aos seus clientes maior competitividade por meio dos preceitos do desenvolvimento sustentável.</p>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
+                    <ul class="list-unstyled social-icon social mb-0 mt-4 ml-4">
+                        <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM/" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/dm_ambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/dm-ambiental-2555a7126/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                    </ul>
+                    </div>
+                </div>
+            </div>
 
             
-        </section><!--end section-->
+        </section>
 
 
-    <!-- News Start -->
     <section class="section bg-light">
         <div class="container">
             <div class="row justify-content-center">
@@ -522,8 +507,8 @@
                         <h4 class="title mb-4">Latest News</h4>
                         <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
@@ -547,7 +532,7 @@
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
                 
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
@@ -570,7 +555,7 @@
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
                         </div>
                     </div>
-                </div><!--end col-->
+                </div>
                 
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
@@ -593,9 +578,9 @@
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
                         </div>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
+                </div>
+            </div>
+        </div>
 
         <section class="bg-half bg-light d-table w-100">
             <div class="container">
@@ -614,9 +599,9 @@
                                 </nav>
                             </div>
                         </div>
-                    </div>  <!--end col-->
-                </div><!--end row-->
-            </div> <!--end container-->
+                    </div>  
+                </div>
+            </div> 
         </section>
 
         <section class="section pb-0">
@@ -631,11 +616,11 @@
                                 <div class="content mt-3">
                                     <h4 class="title font-weight-bold">Telefone para contato</h4>
                                     <p class="text-muted">Estamos ansiosos para conversarmos!</p>
-                                    <a href="tel:+44 (41) 3722-5782" class="text-primary">+44 (41) 3722-5782</a>
+                                    <a href="tel:+44 (41) 3722-5782" class="text-primary">+55 (41) 3722-5782</a>
                                 </div>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
                     
                     <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <div class="card contact-detail text-center border-0 bg-transparent">
@@ -650,7 +635,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!--end col-->
+                    </div>
                     
                     <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <div class="card contact-detail text-center border-0 bg-transparent">
@@ -661,13 +646,13 @@
                                 <div class="content mt-3">
                                     <h4 class="title font-weight-bold">Localização</h4>
                                     <p class="text-muted">R. José Gomes, 340 - João Gualberto, Paranaguá - PR, 83203-610</p>
-                                    <a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094667701553!2d-48.5159697!3d-25.5201391!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9b8c5b502797%3A0x70cb986b74e31475!2sDM%20Ambiental!5e0!3m2!1spt-BR!2sbr!4v1660246130826!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="video-play-icon h6 text-primary">View on Google map</a>
+                                    <a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094667701553!2d-48.5159697!3d-25.5201391!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9b8c5b502797%3A0x70cb986b74e31475!2sDM%20Ambiental!5e0!3m2!1spt-BR!2sbr!4v1660246130826!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="video-play-icon h6 text-primary">Veja no Google maps</a>
                                 </div>
                             </div>
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
+                    </div>
+                </div>
+            </div>
 
             <div class="container mt-100 mt-60">
                 <div class="row align-items-center">
@@ -742,7 +727,7 @@
                     <div class="col-sm-12 col-lg-7 col-md-6 order-1 order-md-2 ">
                         <div class="card border-0 bg-transparent">
                             <div class="card-body p-0">
-                                <img src="images/email.svg" class="img-fluid" alt="">
+                                <img src="images/email.svg" class="pl-5 img-fluid" alt="">
                             </div>
                         </div>
                     </div>
@@ -757,15 +742,13 @@
                     <div class="map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094673701738!2d-48.511592!3d-25.520139000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9a5c61497b59%3A0xb229d5f57354dddf!2sR.%20Jos%C3%A9%20Gomes%2C%20340%20-%20Jo%C3%A3o%20Gualberto%2C%20Paranagu%C3%A1%20-%20PR%2C%2083203-610!5e0!3m2!1spt-BR!2sbr!4v1660245759618!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-    </section><!--end section-->
-    <!-- News End -->
+                </div>
+            </div>
+        </div>
+    </section>
 
     
     
-    <!-- Footer Start -->
     <footer class="footer">
         <div class="container">
             <div class="row">
@@ -779,8 +762,8 @@
                         <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                    </ul><!--end icon-->
-                </div><!--end col-->
+                    </ul>
+                </div>
                 
                 <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Company</h4>
@@ -794,7 +777,7 @@
                         <li><a href="page-blog-grid.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
                         <li><a href="auth-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
                     </ul>
-                </div><!--end col-->
+                </div>
                 
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Usefull Links</h4>
@@ -805,7 +788,7 @@
                         <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Changelog</a></li>
                         <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Components</a></li>
                     </ul>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <h4 class="text-light footer-head">Newsletter</h4>
@@ -824,10 +807,10 @@
                             </div>
                         </div>
                     </form>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-    </footer><!--end footer-->
+                </div>
+            </div>
+        </div>
+    </footer>
     <footer class="footer footer-bar">
         <div class="container text-center">
             <div class="row align-items-center">
@@ -835,7 +818,7 @@
                     <div class="text-sm-left">
                         <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
                     </div>
-                </div><!--end col-->
+                </div>
 
                 <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <ul class="list-unstyled text-sm-right mb-0">
@@ -845,43 +828,30 @@
                         <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/paypal.png" class="avatar avatar-ex-sm" title="Paypal" alt=""></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/visa.png" class="avatar avatar-ex-sm" title="Visa" alt=""></a></li>
                     </ul>
-                </div><!--end col-->
-            </div><!--end row-->
-        </div><!--end container-->
-    </footer><!--end footer-->
-    <!-- Footer End -->
+                </div>
+            </div>
+        </div>
+    </footer>
 
    
-
-    <!-- Back to top -->
     <a href="#" class="btn btn-icon btn-soft-primary back-to-top"><i data-feather="arrow-up" class="icons"></i></a>
-    <!-- Back to top -->
-
-    <!-- javascript -->
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/jquery.mask.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/scrollspy.min.js"></script>
-    <!-- Magnific Popup -->
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/magnific.init.js"></script> 
     <script src="js/jquery.mb.YTPlayer.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/owl.init.js"></script>
-    <!-- Animation -->
     <script src="js/aos.js"></script>
-    <!-- Typed -->
     <script src="js/typed.js"></script>
     <script src="js/typed.init.js"></script>
-    <!-- Counter -->
     <script src="js/counter.init.js"></script>
-    <!-- Parallax -->
     <script src="js/parallax.js"></script>
-    <!-- Icons -->
     <script src="js/feather.min.js"></script>
     <script src="../../../unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"></script>
-    <!-- Main Js -->
     <script src="js/app.js"></script>
     <script src="js/sweetalert2.js"></script>
     <script>
@@ -960,5 +930,5 @@
     </script>
 </body>
 
-<!-- Mirrored from www.shreethemes.in/landrick/layouts/index-business.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jul 2020 13:39:13 GMT -->
+
 </html>
