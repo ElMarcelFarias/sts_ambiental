@@ -20,12 +20,16 @@
     <link href="css/aos.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
     <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
+    <style>
+        html{
+            scroll-behavior: smooth !important;
+        }
+    </style>
 </head>
 
 
     
 
-</style>
 <body>
      <div id="preloader">
         <div id="status">
@@ -57,10 +61,11 @@
             </div>
     
             <div id="navigation">
-                <ul class="navigation-menu nav-light navlogo">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html">Serviços</a></li>
-                    <li><a href="index.html">Contato</a></li>
+                <ul class="navigation-menu nav-light navlogo" >
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#servicos" class="scroll">Serviços</a></li>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#contato">Contato</a></li>
                 </ul>
                 
             </div>
@@ -349,7 +354,7 @@
 
     
 
-    <section class="section">
+    <section class="section" id="servicos">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 text-center">
@@ -471,7 +476,7 @@
         </div> 
     </section>
 
-    <section class="section">
+    <section class="section" id="sobre">
             <div class="container mb-3">
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
@@ -483,8 +488,7 @@
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
                             <h4 class="title mb-4">Sobre a DM Ambiental</h4>
-                            <p class="text-muted">A <span class="text-primary font-weight-bold">DM Ambiental</span> é uma consultoria que possui uma equipe multidisciplinar especializada na prestação de serviços ambientais. Que tem o foco nas soluções ambientais e burocráticas com responsabilidade.
-Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o meio ambiente.  Uma consultoria ambiental que visa ir muito além do cumprimento de normas e legislações, proporcionando aos seus clientes maior competitividade por meio dos preceitos do desenvolvimento sustentável.</p>
+                            <p class="text-muted">A <span class="text-primary font-weight-bold">DM Ambiental</span> é uma consultoria que possui uma equipe multidisciplinar especializada na prestação de serviços ambientais. Que tem o foco nas soluções ambientais e burocráticas com responsabilidade. Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o meio ambiente.  Uma consultoria ambiental que visa ir muito além do cumprimento de normas e legislações, proporcionando aos seus clientes maior competitividade por meio dos preceitos do desenvolvimento sustentável.</p>
                         </div>
                     <ul class="list-unstyled social-icon social mb-0 mt-4 ml-4">
                         <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM/" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
@@ -494,9 +498,7 @@ Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o mei
                     </div>
                 </div>
             </div>
-
-            
-        </section>
+    </section>
 
 
     <section class="section bg-light">
@@ -582,7 +584,7 @@ Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o mei
             </div>
         </div>
 
-        <section class="bg-half bg-light d-table w-100">
+        <section class="bg-half bg-light d-table w-100" id="contato">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
@@ -748,85 +750,20 @@ Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o mei
     </section>
 
     
-    
-    <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                    <a href="#" class="logo-footer">
-                        <img src="images/logo-light.png" height="24" alt="">
-                    </a>
-                    <p class="mt-4">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                    <ul class="list-unstyled social-icon social mb-0 mt-4">
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                    </ul>
-                </div>
-                
-                <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Company</h4>
-                    <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> About us</a></li>
-                        <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
-                        <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
-                        <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
-                        <li><a href="page-work-modern.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Project</a></li>
-                        <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
-                        <li><a href="page-blog-grid.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
-                        <li><a href="auth-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
-                    </ul>
-                </div>
-                
-                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Usefull Links</h4>
-                    <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms of Services</a></li>
-                        <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Policy</a></li>
-                        <li><a href="documentation.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentation</a></li>
-                        <li><a href="changelog.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Changelog</a></li>
-                        <li><a href="components.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Components</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Newsletter</h4>
-                    <p class="mt-4">Sign up and receive the latest tips via email.</p>
-                    <form>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="foot-subscribe form-group position-relative">
-                                    <label>Write your email <span class="text-danger">*</span></label>
-                                    <i data-feather="mail" class="fea icon-sm icons"></i>
-                                    <input type="email" name="email" id="emailsubscribe" class="form-control pl-5 rounded" placeholder="Your email : " required>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <input type="submit" id="submitsubscribe" name="send" class="btn btn-soft-primary btn-block" value="Subscribe">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </footer>
     <footer class="footer footer-bar">
         <div class="container text-center">
             <div class="row align-items-center">
-                <div class="col-sm-6">
-                    <div class="text-sm-left">
-                        <p class="mb-0">© 2019-20 Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://www.shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+                <div class="col-sm-10">
+                    <div class="text-sm-center">
+                        <p class="mb-0">© <?php echo date('Y'); ?> Desenvolvimento por  <a href="https://www.linkedin.com/in/marcel-leite-de-farias-38b62b220/" target="_blank" class="text-reset">Marcel Leite de Farias </a><i class="mdi mdi-heart text-danger"></i></p>
                     </div>
                 </div>
 
-                <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <ul class="list-unstyled text-sm-right mb-0">
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/american-ex.png" class="avatar avatar-ex-sm" title="American Express" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/discover.png" class="avatar avatar-ex-sm" title="Discover" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/master-card.png" class="avatar avatar-ex-sm" title="Master Card" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/paypal.png" class="avatar avatar-ex-sm" title="Paypal" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/payments/visa.png" class="avatar avatar-ex-sm" title="Visa" alt=""></a></li>
+                <div class="col-sm-2 mt-4 mt-sm-0 pt-2 pt-sm-0 text-end">
+                    <ul class="list-unstyled social-icon social mb-0 mt-4">
+                        <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM/" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/dm_ambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/dm-ambiental-2555a7126/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
                     </ul>
                 </div>
             </div>
