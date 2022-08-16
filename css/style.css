@@ -2525,7 +2525,7 @@ p {
     display: inline-block !important;
   }
   #topnav .logo .l-light {
-    display: none !important;
+    display: inline-block !important;
   }
   #topnav .container {
     width: auto;
@@ -2663,7 +2663,7 @@ p {
 
 @media (max-width: 375px) {
   #topnav .buy-button {
-    display: none;
+    display: block;
   }
   #topnav .buy-menu-btn {
     display: block !important;
@@ -4499,6 +4499,9 @@ p {
   height: 100px;
   margin: 10px;
 }
+
+
+
 .navlogo {
   padding-top: 20px!important;
 }
@@ -4507,9 +4510,9 @@ p {
   background: transparent!important;
 }
 
-.contact {
-  height: 380px;
-  margin-left: 145px;
+.contact-woman {
+  height: 300;
+  width: 300;
 }
 .cards-image-dm {
   height: 650px;

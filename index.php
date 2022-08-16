@@ -54,15 +54,15 @@
             
             <div>
                 <a class="logo" href="index.html">
-                    <img src="images/logo.png" class="l-light logodm" alt="">
+                    <img src="images/logo.png" class="logodm" id="logo"alt="">
                 </a>
             </div>                 
             <!-- End Logo container-->
             <div class="menu-extras">
                 <div class="menu-item">
                     <!-- Mobile menu toggle-->
-                    <a class="navbar-toggle">
-                        <div class="lines">
+                    <a class="navbar-toggle" id="nav-logo">
+                        <div class="lines" id="lines" style="margin-top:50px"> 
                             <span></span>
                             <span></span>
                             <span></span>
@@ -338,7 +338,7 @@
                 </div><!--end col-->
 
                 <div class="col-lg-5 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <img src="images/gestor_ambiente.svg" style="height: 450px;width: 450px;" alt="">
+                    <img src="images/gestor_ambiente.svg" style="height: 450px;width: 450px;" class="img-fluid" alt="">
                 </div><!--end col-->
             </div><!--end row-->
         </div><!--end container-->
@@ -469,6 +469,49 @@
         </div><!--end carousel-->
     </section><!--end section-->
     
+    <section class="bg-half bg-light d-table w-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 text-center">
+                    <div class="page-next-level">
+                        <h1 class="title">Sobre a <i>DM Ambiental<i></h1>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="index.html">DM Ambiental</a></li>
+                                    <li class="breadcrumb-item"><a href="#">Página</a></li>
+                                    <li class="breadcrumb-item"><a href="#">Sobre</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Sobre nós</li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>  <!--end col-->
+            </div><!--end row-->
+        </div> <!--end container-->
+    </section>
+
+    <section class="section">
+            <div class="container mb-3">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                        <div class="position-relative">
+                            <img src="images/about.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                        </div>
+                    </div><!--end col-->
+
+                    <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                        <div class="section-title ml-lg-4">
+                            <h4 class="title mb-4">Our Story</h4>
+                            <p class="text-muted">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            
+        </section><!--end section-->
+
 
     <!-- News Start -->
     <section class="section bg-light">
@@ -696,10 +739,10 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-7 col-md-6 order-1 order-md-2 ">
+                    <div class="col-sm-12 col-lg-7 col-md-6 order-1 order-md-2 ">
                         <div class="card border-0 bg-transparent">
                             <div class="card-body p-0">
-                                <img src="images/email.svg" class="img-fluid contact" alt="">
+                                <img src="images/email.svg" class="img-fluid" alt="">
                             </div>
                         </div>
                     </div>
@@ -721,7 +764,7 @@
     <!-- News End -->
 
     
-
+    
     <!-- Footer Start -->
     <footer class="footer">
         <div class="container">
@@ -902,6 +945,18 @@
             })
         })
 
+        $("#nav-logo").on("click", function(){
+
+            var logo = document.getElementById("logo");
+
+            if (logo.style.display == "none") {
+                logo.style.display = 'block';
+            } else {
+                logo.style.display = 'none';
+            }  
+        });
+
+       
     </script>
 </body>
 
