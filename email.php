@@ -49,12 +49,12 @@
         $mail->Host = 'email-ssl.com.br';
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = 'ssl';
-        $mail->Username = 'contato@stsambiental.com';
+        $mail->Username = 'dmambiental@dmambiental.com';
         $mail->Password = 'STSamb@2022!';
         $mail->Port = 465;
 
-        $mail->setFrom('contato@stsambiental.com', 'sts Remetente');
-        $mail->addAddress('marcel.leitefarias@gmail.com');
+        $mail->setFrom('dmambiental@dmambiental.com', 'DM  Ambiental SITE');
+        $mail->addAddress('dmambiental@dmambiental.com');
 
         $mail->isHTML(true); 
         
