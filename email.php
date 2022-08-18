@@ -274,11 +274,11 @@
                                       </tr>
                                       
                                       <tr>
-                                        <td>Email</td>
+                                        <th>Email</th>
                                         <td>'.$email.'</td>
                                       </tr>
                                       <tr>
-                                        <td>Telefone</td>
+                                        <th>Telefone</th>
                                         <td>'.$telefone.'</td>
                                       </tr>
                                     </table>
