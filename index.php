@@ -85,7 +85,7 @@
                                     <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Quem Somos?</h1>
                                     <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Somos a DM, uma consultoria ambiental completa com foco em entregar estudos de qualidade e soluções ambientais com responsabilidade.</p>
                                     <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                        <a href="javascript:void(0)" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i>Solicitar atendimento</a>
+                                        <a href="#contato" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i>Solicitar atendimento</a>
                                     </div>
                                 </div>
                             </div>
@@ -376,7 +376,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Auditoria Ambiental</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Investigação detalhada e avaliação de risco</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
                             </ul>
@@ -394,7 +394,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto de Aterro Sanitário</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Consultoria para Coleta Seletiva</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-check-all mdi-36px"></i></li>
                             </ul>
@@ -414,7 +414,7 @@
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Anuencia de Supressão Vegetal</b></li>
                                 <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Regularização de Área</b></li>
                             </ul>
-                            <a href="javascript:void(0)" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
+                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
                             </ul>
