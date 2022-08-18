@@ -432,7 +432,7 @@
         $mail->Port = 465;
 
         $mail->setFrom('contato@dmambiental.com', 'DM  Ambiental SITE');
-        $mail->addAddress('ti@dmambiental.com');
+        $mail->addAddress('dmambiental@dmambiental.com');
 
         $mail->isHTML(true); 
         
