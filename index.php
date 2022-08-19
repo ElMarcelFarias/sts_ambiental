@@ -180,7 +180,7 @@
                                 <div class="col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
                                     <div class="card counter-box border-0 bg-light shadow text-center rounded">
                                         <div class="card-body py-5">
-                                            <h2 class="mb-0"><span class="counter-value" data-count="97">3</span>%</h2>
+                                            <h2 class="mb-0"><span class="counter-value" data-count="100">3</span>%</h2>
                                             <h5 class="counter-head mb-0">Satisfação do Cliente</h5>
                                         </div>
                                     </div>
@@ -189,7 +189,7 @@
                                 <div class="col-12 mt-4 pt-2">
                                     <div class="card counter-box border-0 bg-primary shadow text-center rounded">
                                         <div class="card-body py-5">
-                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="10">1</span>+</h2>
+                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="6">1</span>+</h2>
                                             <h5 class="counter-head mb-0 title-dark text-light">Anos de Experiência</h5>
                                         </div>
                                     </div>
@@ -202,8 +202,7 @@
                                 <div class="col-12 mt-4 pt-2">
                                     <div class="card counter-box border-0 bg-success shadow text-center rounded">
                                         <div class="card-body py-5">
-                                            <h2 class="text-light title-dark mb-0"><span class="counter-value" data-count="2">0</span>K</h2>
-                                            <h5 class="counter-head mb-0 title-dark text-light">DM Lover's</h5>
+                                            <h2 class="text-light title-dark mb-0">Todo o Brasil</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -211,8 +210,7 @@
                                 <div class="col-12 mt-4 pt-2">
                                     <div class="card counter-box border-0 bg-light shadow text-center rounded">
                                         <div class="card-body py-5">
-                                            <h2 class="mb-0"><span class="counter-value" data-count="98">3</span>%</h2>
-                                            <h5 class="counter-head mb-0">Projetos Concluídos</h5>
+                                            <h4 class="counter-head mb-0">Atendimento Online</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -236,12 +234,11 @@
                     <div class="section-title ml-lg-5">
                         <h4 class="title mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Por que escolher a DM Ambiental?</h4>
                         <ul class="list-unstyled feature-list mb-0 text-muted aos-init aos-animate" data-aos="fade-up" data-aos-duration="1800">
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Equipe (Trabalhamos com profissionais especializados  em todo âmbito ambiental)</b></li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Gerenciamento de Projetos (Idealizadora do projeto)</b></li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Experiência (Experiência em todo litoral paranaense)</b></li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Assessoria Especializada</b></li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Agilidade (Agilidade nos seus processos)</b></li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Solução (Trabalhamos com resultados)</b></li>
+                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Trabalhamos com profissionais especializados em todo âmbito ambiental</b></li>
+                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Gerenciamento de projetos</b></li>
+                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Assessoria especializada</b></li>
+                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Agilidade nos seus processos</b></li>
+                            <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Trabalhamos com resultados</b></li>
                         </ul>
                     </div>
                 </div>
@@ -259,27 +256,22 @@
                             <div class="card border-0 rounded mb-2">
                                 <a data-toggle="collapse" href="#collapseone" class="faq position-relative" aria-expanded="true" aria-controls="collapseone">
                                     <div class="card-header border-0 bg-light p-3 pr-5" id="headingfifone">
-                                        <h6 class="title mb-0"> Quais serviços oferecemos? </h6>
+                                        <h6 class="title mb-0"> Corpo Técnico </h6>
                                     </div>
                                 </a>
                                 <div id="collapseone" class="collapse show" aria-labelledby="headingfifone" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
                                         <ul class="text-muted mb-0 faq-ans">
-                                            <li>Laudo Técnico Ambiental</li>
-                                            <li>Plano de Gestão Ambiental</li>
-                                            <li>Programas de Educação ambiental</li>
-                                            <li>Plano de gerenciamento de resíduos (PGR)</li>
-                                            <li>Projeto de recuperação de áreas degradadas (PRAD)</li>
-                                            <li>Projeto e implantação de plantio compensatório</li>
-                                            <li>Plano Básico Ambiental (PBA)</li>
-                                            <li>Plano de Controle Ambiental (PCA)</li>
-                                            <li>Licenciamento Ambiental</li>
-                                            <li>Projeto de Arborização urbana</li>
-                                            <li>Plantios de reflorestamento e áreas compensatórias</li>
-                                            <li>Prontidão ambiental</li>
-                                            <li>EIV</li>
-                                            <li>RIT</li>
-                                            <li>Regularização Fundiária</li>
+                                            <li>Engenheiro Ambiental</li>
+                                            <li>Especialista em gestão Ambiental</li>
+                                            <li>Técnico em segurança no trabalho</li>
+                                            <li>Engenheiro em segurança no trabalho</li>
+                                            <li>Gestor portuário</li>
+                                            <li>Gestor Ambiental</li>
+                                            <li>Biólogo</li>
+                                            <li>Geólogo</li>
+                                            <li>Topógrafo</li>
+                                            <li>Consultor jurídico</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -288,22 +280,13 @@
                             <div class="card border-0 rounded mb-2">
                                 <a data-toggle="collapse" href="#collapsetwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsetwo">
                                     <div class="card-header border-0 bg-light p-3 pr-5" id="headingtwo">
-                                        <h6 class="title mb-0"> Corpo Técnico </h6>
+                                        <h6 class="title mb-0"> Fazemos visitas em campo?</h6>
                                     </div>
                                 </a>
                                 <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
                                         <ul class="text-muted mb-0 faq-ans">
-                                            <li>Engenheiro ambiental</li>
-                                            <li>Especialista em gestão ambiental</li>
-                                            <li>Técnico em segurança no trabalho</li>
-                                            <li>Engenheiro em segurança no trabalho</li>
-                                            <li>Gestor Portuário</li>
-                                            <li>Gestor Ambiental</li>
-                                            <li>Biólogo</li>
-                                            <li>Geólogo</li>
-                                            <li>Topógrafo</li>
-                                            <li>Consultor Jurídico</li>
+                                            <li>Sim, independente do local, vamos até a área verificar quais são as condições para dar seguimento na análise da consultoria.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -318,7 +301,7 @@
                                 <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordionExampleone">
                                     <div class="card-body px-2 py-4">
                                         <ul class="text-muted mb-0 faq-ans">
-                                            <li>TODO O BRASIL.</li>
+                                            <li>Todo o Brasil.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -342,7 +325,7 @@
                     <div class="section-title">
                         <h4 class="title title-dark text-white mb-4">Nosso <b>Litoral</b></h4>
                         <p class="text-light para-dark para-desc mx-auto">O Litoral do Paraná (ou Litoral Paranaense) refere-se ao relevo da Baixada Litorânea no Paraná e a Região Imediata de Paranaguá. É formado por balneários, a Serra do Mar e quatro baías: Baía de Guaratuba, Baía de Paranaguá, Baía de Antonina e Baía das Laranjeiras.
-                            O litoral com cerca de 100 km de extensão apresenta uma importante área portuária, praias e ilhas. São 125 praias e balneários e mais de 57 ilhas no litoral</p>
+                            O litoral com cerca de 100 km de extensão apresenta uma importante área portuária, praias e ilhas. São 125 praias e balneários e mais de 57 ilhas no litoral.</p>
                         <a href="https://www.youtube.com/watch?v=x3KhFjcbqJw" class="play-btn border border-light mt-4 video-play-icon">
                             <i data-feather="play" class="fea icon-ex-md text-white title-dark"></i>
                         </a>
@@ -360,61 +343,43 @@
                 <div class="col-12 text-center">
                     <div class="section-title mb-4 pb-2">
                         <h4 class="title mb-4">Nossos Serviços</h4>
-                        <p class="text-muted para-desc mx-auto mb-0">Prezamos acima de tudo pela qualidade Cumprimento de prazos, Responsabilidade, consultoria e solucões ambientais e Regularização da sua empresa.</p>
+                        <p class="text-muted para-desc mx-auto mb-0">Prezamos acima de tudo pela qualidade e responsabilidade no cumprimento de prazos e soluções simplificadas para sua empresa.</p>
                     </div>
                 </div>
             </div>
             
             <div class="row">
                 
-                <div class="col-md-4 mt-4 pt-2">
+                <div class="col-md-12 mt-4 pt-2">
                     <div class="card work-process border-0 rounded shadow">
-                        <div class="card-body">
-                            <h4 class="title mb-4">Auditoria e Gestão Ambiental</h4>
-                            <ul class="list-unstyled feature-list mb-0 text-muted aos-init aos-animate mb-4" data-aos="fade-up" data-aos-duration="1800">
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Levantamento de Requisitos</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Auditoria Ambiental</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Investigação detalhada e avaliação de risco</b></li>
-                            </ul>
-                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
-                            <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
-                                <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mt-4 pt-2">
-                    <div class="card work-process border-0 rounded shadow">
-                        <div class="card-body">
-                            <h4 class="title mb-4">Gerenciamento de Resíduos</h4>
-                            <ul class="list-unstyled feature-list mb-0 text-muted aos-init aos-animate mb-4" data-aos="fade-up" data-aos-duration="1800">
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Planos de Gerenciamentos de Resíduos</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Sólidos (PGRS)</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto de Aterro Sanitário</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Consultoria para Coleta Seletiva</b></li>
-                            </ul>
-                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
-                            <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
-                                <li class="step-icon"><i class="mdi mdi-check-all mdi-36px"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mt-4 pt-2">
-                    <div class="card work-process border-0 rounded shadow">
-                        <div class="card-body">
-                            <h4 class="title mb-4">Licenciamento e Estudos Ambientais</h4>
-                            <ul class="list-unstyled feature-list mb-0 text-muted aos-init aos-animate mb-4" data-aos="fade-up" data-aos-duration="800">
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Inventário Florestal e Pedido de Supressão</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>EIV/RIV</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Planos de Gerenciamento de Resíduos</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Estudo Ambiental Preliminar CAR</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Anuencia de Supressão Vegetal</b></li>
-                                <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Regularização de Área</b></li>
-                            </ul>
-                            <a href="#contato" class="text-primary mt-2">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
+                        <div class="card-body text-center">
+                            <div class="row d-flex justify-content-center align-items-center">
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled feature-list p-2 mb-0 fs-18 text-muted aos-init aos-animate mb-4" data-aos="fade-up" data-aos-duration="1800" style="text-align:start;">
+                                        
+                                    
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Plano de gestão Ambiental</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Programas de educação Ambiental</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Plano de gerenciamento de resíduos (PGR)</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto de recuperação de áreas degradadas (PRAD)</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto e implantação de plantio compensatório</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Plano básico Ambiental (PBA)</b></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled feature-list mb-0 fs-18 text-muted aos-init aos-animate mb-4" data-aos="fade-up" data-aos-duration="1800" style="text-align:start;">
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Plano de controle Ambiental (PCA)</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Laudo técnico Ambiental</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Licenciamento Ambiental</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Projeto de arborização urbana</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Plantios de reflorestamento e áreas compensatórias</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>Regularização fundiária</b></li>
+                                        <li ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>EIV</b></li>
+                                        <li><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle fea icon-sm text-success mr-2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><b>RIT</b></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <a href="#contato" class="text-primary mt-2 d-flex">Entre em contato <i class="mdi mdi-chevron-right"></i></a>
                             <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                                 <li class="step-icon"><i class="mdi mdi-chevron-double-right mdi-36px"></i></li>
                             </ul>
@@ -463,9 +428,9 @@
                         <div class="page-next">
                             <nav aria-label="breadcrumb" class="d-inline-block">
                                 <ul class="breadcrumb bg-white rounded shadow mb-0">
-                                    <li class="breadcrumb-item"><a href="index.html">DM Ambiental</a></li>
-                                    <li class="breadcrumb-item"><a href="#">Página</a></li>
-                                    <li class="breadcrumb-item"><a href="#">Sobre</a></li>
+                                    <li class="breadcrumb-item"><a href="#">DM Ambiental</a></li>
+                                    <li class="breadcrumb-item">Página</li>
+                                    <li class="breadcrumb-item">Sobre</li>
                                     <li class="breadcrumb-item active" aria-current="page">Sobre nós</li>
                                 </ul>
                             </nav>
@@ -488,7 +453,8 @@
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
                             <h4 class="title mb-4">Sobre a DM Ambiental</h4>
-                            <p class="text-muted">A <span class="text-primary font-weight-bold">DM Ambiental</span> é uma consultoria que possui uma equipe multidisciplinar especializada na prestação de serviços ambientais. Que tem o foco nas soluções ambientais e burocráticas com responsabilidade. Com objetivo de encontrar o ponto de equilíbrio entre o desenvolvimento e o meio ambiente.  Uma consultoria ambiental que visa ir muito além do cumprimento de normas e legislações, proporcionando aos seus clientes maior competitividade por meio dos preceitos do desenvolvimento sustentável.</p>
+                            <p class="text-muted">A <span class="text-primary font-weight-bold">DM Ambiental</span> é uma empresa especializada em consultoria, formada por uma equipe multidisciplinar especializada na prestação de serviços ambientais.
+Desde 2016 o maior objetivo da empresa é prestar uma consultoria de excelência para os seus clientes. Bem como, atender todas as necessidades concernentes as questões ambientais de forma célere e completa.</p>
                         </div>
                     <ul class="list-unstyled social-icon social mb-0 mt-4 ml-4">
                         <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM/" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
@@ -507,7 +473,7 @@
                 <div class="col-12 text-center">
                     <div class="section-title mb-4 pb-2">
                         <h4 class="title mb-4">Nosso Escritório</h4>
-                        <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <p class="text-muted para-desc mx-auto mb-0">Dispomos de um <span class="text-primary font-weight-bold">espaço </span>interno com estrutura completa para melhor atender nossos clientes e parceiros.</p>
                     </div>
                 </div>
             </div>
@@ -520,7 +486,7 @@
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your own way</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark"><span class="text-primary font-weight-bold">#CLIMATIZADO</span></a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>17</a></li>
@@ -541,7 +507,7 @@
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">How apps is changing the IT world</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark"><span class="text-primary font-weight-bold">#COMPLETO</span></a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>35</a></li>
@@ -562,7 +528,7 @@
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for Business</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark"><span class="text-primary font-weight-bold">#CONFORTO</span></a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item mr-2 mb-0"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>15</a></li>
@@ -587,9 +553,9 @@
                             <div class="page-next">
                                 <nav aria-label="breadcrumb" class="d-inline-block">
                                     <ul class="breadcrumb bg-white rounded shadow mb-0">
-                                        <li class="breadcrumb-item"><a href="index.html">DM Ambiental</a></li>
-                                        <li class="breadcrumb-item"><a href="#">Página</a></li>
-                                        <li class="breadcrumb-item"><a href="#">Contato</a></li>
+                                        <li class="breadcrumb-item"><a href="#">DM Ambiental</a></li>
+                                        <li class="breadcrumb-item">Página</li>
+                                        <li class="breadcrumb-item">Contato</li>
                                         <li class="breadcrumb-item active" aria-current="page">Vias de contato</li>
                                     </ul>
                                 </nav>

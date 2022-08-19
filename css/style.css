@@ -4533,6 +4533,10 @@ p {
   width: 100%;
 }
 
+.fs-18 {
+  font-size: 18px !important;
+}
+
 .carousel-vh-inner {
   height: 89vh;
   width: 100%;
