@@ -163,7 +163,7 @@
                 <div class="col-lg-6">
                     <div class="section-title">
                         <h4 class="title mb-4">Qual é o nosso <span class="text-primary">diferencial</span> ?</h4>
-                        <p class="text-muted para-desc">Além de oferecermos uma  <span class="text-primary font-weight-bold">consultoria ambiental</span> personalizada, nos destacamos por motivos ímpares.</p>
+                        <p class="text-muted para-desc">Além de oferecermos uma  <span class="text-primary font-weight-bold">consultoria ambiental</span> personalizada, nós destacamos por motivos ímpares.</p>
                         <ul class="list-unstyled feature-list text-muted">
                             <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>+ de 6 anos de experiência na área</li>
                             <li><i data-feather="check-circle" class="fea icon-sm text-success mr-2"></i>Equipe completa e especializada </li>
