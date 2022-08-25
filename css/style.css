@@ -1787,8 +1787,8 @@ button:not(:disabled) {
   bottom: 30px;
   right: 30px;
   display: none;
-  -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+  margin: 30px;
+  margin-right: 30px;
 }
 
 .back-to-top .icons {
@@ -4523,10 +4523,6 @@ p {
 
 
 
-.carousel-dm {
-  margin-bottom: 200px;
-  margin-top: 150px;
-}
 
 .carouse-vh {
   height: 60vh;
