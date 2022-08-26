@@ -4496,7 +4496,8 @@ p {
   background-color: #33673B;
 }
 .logodm {
-  height: 100px;
+  height: 80px;
+  padding-top: 10px;
   margin: 10px;
 }
 

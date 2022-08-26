@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>DM AMBIENTAL</title>
+    <title>STS Ambiental</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="DM Ambiental, Serviços ambientais, Somos a DM, uma consultoria ambiental completa com foco em entregar estudos de qualidade e soluções ambientais com responsabilidade." />
-    <meta name="keywords" content="Serviços Ambientais, ambiental, gestão ambiental, Assessoria Especializada, Auditoria Ambiental" />
+    <meta name="description" content="STS Ambiental, Com foco em entregar estudos de qualidade e soluções com responsabilidade, a STS é uma empresa especializada em regularizações ambientais e imobiliárias." />
+    <meta name="keywords" content="Serviços Ambientais, Ambiental, gestão ambiental, Assessoria Especializada, Auditoria Ambiental" />
     <meta name="author" content="Marcel Leite de Farias" />
 
     <link rel="shortcut icon" href="images/logo.png">
@@ -434,7 +434,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="position-relative">
-                            <img src="images/logo.png" class="rounded img-fluid mx-auto d-block" style="height:300px"  alt="">
+                            <img src="images/logosobre.jpeg" class="rounded img-fluid mx-auto d-block" style="height:300px"  alt="">
                         </div>
                     </div>
 
