@@ -177,7 +177,7 @@
                                     <tr>
                                       <td style="padding-right: 0px;padding-left: 0px;" align="center">
     
-                                        <img align="center" border="0" src="https://assets.unlayer.com/projects/96360/1660832383680-8581b6e0-fb41-4a07-ab56-df141f3f0b00.jpeg" alt="" title="" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 50%;max-width: 90px;"
+                                        <img align="center" border="0" src="cid:logo" alt="" title="" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 50%;max-width: 90px;"
                                           width="90" />
     
                                       </td>
@@ -427,12 +427,12 @@
         $mail->Host = 'email-ssl.com.br';
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = 'ssl';
-        $mail->Username = 'contato@dmambiental.com';
-        $mail->Password = 'Contato@2022!';
+        $mail->Username = 'contato@stsambiental.com';
+        $mail->Password = 'STSamb@2022!';
         $mail->Port = 465;
 
-        $mail->setFrom('contato@dmambiental.com', 'DM  Ambiental SITE');
-        $mail->addAddress('dmambiental@dmambiental.com');
+        $mail->setFrom('contato@stsambiental.com', 'STS Ambiental SITE');
+        $mail->addAddress('ti@dmambiental.com');
 
         $mail->isHTML(true); 
         
@@ -440,6 +440,7 @@
         //$mail->AddEmbeddedImage($img, "my-attach");
         $mail->Subject = nl2br(($assuntoTitulo));
         $mail->Body   = $html;
+        $mail->AddEmbeddedImage('images/logo.png', 'logo', 'logodm');
         //$mail->AltBody = nl2br(strip_tags($msg));
 
         
