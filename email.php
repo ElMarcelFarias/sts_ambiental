@@ -208,8 +208,8 @@
                                 <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:"Cabin",sans-serif;" align="left">
     
                                   <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-                                    <p style="font-size: 14px; line-height: 140%;"><strong>DM AMBIENTAL</strong></p>
-                                    <p style="font-size: 14px; line-height: 140%;">EMAIL: dmambiental@dmambiental.com</p>
+                                    <p style="font-size: 14px; line-height: 140%;"><strong>STS AMBIENTAL</strong></p>
+                                    <p style="font-size: 14px; line-height: 140%;">EMAIL: regularize@stsambiental.com</p>
                                     <p style="font-size: 14px; line-height: 140%;">Fone: (41) 3722-5782 </p>
                                   </div>
     
@@ -347,9 +347,9 @@
                                 <td style="overflow-wrap:break-word;word-break:break-word;padding:41px 55px 18px;font-family:"Cabin",sans-serif;" align="left">
     
                                   <div style="color: #000000; line-height: 160%; text-align: center; word-wrap: break-word;">
-                                    <p style="font-size: 14px; line-height: 160%;">DM AMBIENTAL</p>
+                                    <p style="font-size: 14px; line-height: 160%;">STS AMBIENTAL</p>
                                     <p style="font-size: 14px; line-height: 160%;">Fone: (41) 3722-5782</p>
-                                    <p style="font-size: 14px; line-height: 160%;"><span style="font-size: 16px; line-height: 25.6px; color: #000000;">dmambiental@dmambiental.com</span></p>
+                                    <p style="font-size: 14px; line-height: 160%;"><span style="font-size: 16px; line-height: 25.6px; color: #000000;">regularize@stsambiental.com</span></p>
                                   </div>
     
                                 </td>
