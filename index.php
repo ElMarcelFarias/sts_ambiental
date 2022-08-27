@@ -481,7 +481,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> DM Ambiental</small>
+                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> STS Ambiental</small>
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 17 Agosto, 2022</small>
                         </div>
                     </div>
@@ -502,7 +502,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> DM Ambiental</small>
+                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> STS Ambiental</small>
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 17 Agosto, 2022</small>
                         </div>
                     </div>
@@ -523,7 +523,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> DM Ambiental</small>
+                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> STS Ambiental</small>
                             <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 17 Agosto, 2022</small>
                         </div>
                     </div>
@@ -540,7 +540,7 @@
                             <div class="page-next">
                                 <nav aria-label="breadcrumb" class="d-inline-block">
                                     <ul class="breadcrumb bg-white rounded shadow mb-0">
-                                        <li class="breadcrumb-item"><a href="#">DM Ambiental</a></li>
+                                        <li class="breadcrumb-item"><a href="#">STS Ambiental</a></li>
                                         <li class="breadcrumb-item">Página</li>
                                         <li class="breadcrumb-item">Contato</li>
                                         <li class="breadcrumb-item active" aria-current="page">Vias de contato</li>
@@ -580,7 +580,7 @@
                                 <div class="content mt-3">
                                     <h4 class="title font-weight-bold">E-mail para contato</h4>
                                     <p class="text-muted">Estamos esperando seu contato via email!</p>
-                                    <a href="mailto:dmambiental@dmambiental.com" class="text-primary">dmambiental@dmambiental.com</a>
+                                    <a href="mailto:dmambiental@dmambiental.com" class="text-primary">regularize@stsambiental.com</a>
                                 </div>
                             </div>
                         </div>
@@ -608,7 +608,7 @@
                     <div class="col-lg-5 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0 order-2 order-md-1">
                         <div class="card shadow rounded border-0">
                             <div class="card-body py-5">
-                                <h4 class="card-title">Entre em Contato !</h4>
+                                <h4 class="card-title">Entre em Contato!</h4>
                                 <div class="custom-form mt-4">
                                     <div id="message"></div>
 
@@ -708,9 +708,9 @@
 
                 <div class="col-sm-2 mt-4 mt-sm-0 pt-2 pt-sm-0 text-end">
                     <ul class="list-unstyled social-icon social mb-0 mt-4">
-                        <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM/" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.instagram.com/dm_ambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/dm-ambiental-2555a7126/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/stsregularize" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/stsambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/company/sts-regulariza%C3%A7%C3%A3o-ambiental-e-imobili%C3%A1ria/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -785,7 +785,7 @@
                         success:function(data){
                         Swal.fire({
                             title: 'Email enviado com sucesso!',
-                            text: 'Sua mensagem foi enviadam para DM Ambiental!',
+                            text: 'Sua mensagem foi enviadam para STS Ambiental!',
                             icon: 'success'
                         }).then(()=>{
                             window.location.reload();
