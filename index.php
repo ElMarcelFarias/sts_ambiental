@@ -9,7 +9,7 @@
     <meta name="keywords" content="Serviços Ambientais, Ambiental, gestão ambiental, Assessoria Especializada, Auditoria Ambiental" />
     <meta name="author" content="Marcel Leite de Farias" />
 
-    <link rel="shortcut icon" href="images/logo.png">
+    <link rel="shortcut icon" href="images/faviconsts.png">
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
     <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
@@ -388,15 +388,20 @@
     <section class="home-slider position-relative carousel-dm">
         <div id="carouselExampleControls2" class="carousel slide carouse-vh" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item align-items-center active" style="background-image:url('images/carousel-dm-1.jpg');">
-                <div class="bg-overlay"></div>
-                </div><
-
-                <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-2.jpg');">
+                <div class="carousel-item align-items-center active" style="background-image:url('images/carousel1.jpeg');">
                 <div class="bg-overlay"></div>
                 </div>
 
-                <div class="carousel-item align-items-center" style="background-image:url('images/carousel-dm-3.jpg');">
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/crsl2.jpeg');">
+                <div class="bg-overlay"></div>
+                </div>
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/carousel3.jpeg');">
+                <div class="bg-overlay"></div>
+                </div>
+
+                <div class="carousel-item align-items-center" style="background-image:url('images/crsl4.jpeg');">
                 <div class="bg-overlay"></div>
                 </div>
             </div>
@@ -469,7 +474,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
                         <div class="position-relative">
-                            <img src="images/card1.jpeg" class="card-img-top rounded-top" alt="...">
+                            <img src="images/cd1.jpg" class="card-img-top rounded-top" alt="...">
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
@@ -511,7 +516,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
                         <div class="position-relative">
-                            <img src="images/card3.jpeg" class="card-img-top rounded-top" alt="...">
+                            <img src="images/cd3.jpg" class="card-img-top rounded-top" alt="...">
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
