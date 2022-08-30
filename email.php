@@ -432,7 +432,7 @@
         $mail->Port = 465;
 
         $mail->setFrom('contato@stsambiental.com', 'STS Ambiental SITE');
-        $mail->addAddress('ti@dmambiental.com');
+        $mail->addAddress('regularize@stsambiental.com');
 
         $mail->isHTML(true); 
         
