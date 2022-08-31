@@ -45,7 +45,7 @@
             
             <div>
                 <a class="logo" href="#">
-                    <img src="images/logo.png" class="logodm" id="logo"alt="">
+                    <img src="images/logo.png" class="logodm" id="logo"alt=""> <!--logo.png-->
                 </a>
             </div>                 
             <div class="menu-extras">
@@ -82,7 +82,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Quem Somos?</h1>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Quem somos?</h1>
                                     <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Com foco em entregar estudos de qualidade e soluções com responsabilidade, a STS é uma empresa especializada em regularizações ambientais e imobiliárias. </p>
                                     <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                                         <a href="#contato" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i>Solicitar atendimento</a>
@@ -466,7 +466,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
                         <div class="position-relative">
-                            <img src="images/cd3.jpg" class="card-img-top rounded-top" alt="...">
+                            <img src="images/cd3.jpg" class="card-img-top rounded-top" width="290" height="466" alt="...">
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
@@ -488,7 +488,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
                         <div class="position-relative">
-                            <img src="images/card2.jpeg" class="card-img-top rounded-top" alt="...">
+                            <img src="images/card2.jpeg" class="card-img-top rounded-top" width="290" height="466" alt="...">
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
@@ -511,7 +511,7 @@
                 <div class="col-lg-4 col-md-6 mt-4 pt-2">
                     <div class="card blog rounded border-0 shadow">
                         <div class="position-relative">
-                            <img src="images/cd1.jpg" class="card-img-top rounded-top" alt="...">
+                            <img src="images/cd1.png" class="card-img-top rounded-top" width="290" height="466"  alt="...">
                         <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="card-body content">
