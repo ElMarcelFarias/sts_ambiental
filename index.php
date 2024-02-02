@@ -73,7 +73,7 @@
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
                                     <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Quem somos?</h1>
-                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Com foco em entregar estudos de qualidade e soluções com responsabilidade, a STS é uma empresa especializada em regularizações ambientais e imobiliárias. </p>
+                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Com foco em entregar estudos de qualidade e soluções com responsabilidade, uma empresa especializada em regularizações ambientais, imobiliárias e prontidão ambiental. </p>
                                     <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
                                         <a href="#contato" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i>Solicitar atendimento</a>
                                     </div>
@@ -375,6 +375,37 @@
         </div>
     </section>
 
+    <section>
+        <!-- vai ser aqui o mosaico -->
+        <div class="container mt-80 mt-60 mb-5">
+            <div class="row align-items-center">
+                <div class="col-lg-5 order-2 order-lg-1 mt-4 pt-2 mt-lg-0 pt-lg-0">
+                    <div class="section-title mr-lg-4">
+                        <h1 class="title mb-3"><span class="text-primary font-weight-bold">Proatividade</span></h1>
+                        <p class="para-desc text-muted">O Grupo DM Ambiental é uma escolha ideal como empresa ambiental devido à sua vasta experiência, compromisso com padrões éticos e legais, abordagem inovadora e personalizada, e dedicação à responsabilidade social e ao desenvolvimento sustentável.</p>
+                    
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="d-flex align-items-center pt-4">
+                                    <h2><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shield fea icon-m-md text-primary"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg></h2>
+                                    <div class="ml-3">
+                                        <h5>Compromisso Ambiental</h5>
+                                        <p class="text-muted mb-0">O grupo prioriza a responsabilidade nas entregas, assegurando prazos cumpridos e qualidade em todas as operações, reconhecendo os impactos ambientais e comunitários de cada projeto.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--end col-->
+                
+                <div class="col-lg-7 order-1 order-lg-2">
+                    <div class="position-relative">
+                        <img src="images/mosaico_fotos.png" class="img-fluid mx-auto d-block rounded shadow" alt="">
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div>
+    </section>
 
     <section class="home-slider position-relative carousel-dm">
         <div id="carouselExampleControls2" class="carousel slide carouse-vh" data-ride="carousel">
@@ -547,12 +578,12 @@
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ml-lg-4">
                             <h4 class="title mb-4">Sobre a empresa </h4>
-                            <p class="text-muted" style="text-align: justify;">Formada por uma equipe multidisciplinar, o maior objetivo da STS é prestar uma consultoria de excelência para os seus clientes e, respectivamente, atender todas as necessidades concernentes as questões ambientais e imobiliárias de forma célere e completa.</p>
-                        </div>
+                            <p class="text-muted" style="text-align: justify;">Formada por uma equipe multidisciplinar, o maior objetivo do grupo é prestar uma consultoria de excelência para os seus clientes e, respectivamente, atender todas as necessidades concernentes as questões ambientais e imobiliárias de forma célere e completa.</p>
+                        </div> 
                     <ul class="list-unstyled social-icon social mb-0 mt-4 ml-4">
-                        <li class="list-inline-item"><a href="https://www.facebook.com/stsregularize" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.instagram.com/stsambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.linkedin.com/company/sts-regulariza%C3%A7%C3%A3o-ambiental-e-imobili%C3%A1ria/about/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/grupo.dmstsambiental"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <!--<li class="list-inline-item"><a href="https://www.linkedin.com/company/sts-regulariza%C3%A7%C3%A3o-ambiental-e-imobili%C3%A1ria/about/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li> -->
                     </ul>
                     </div>
                 </div>
@@ -681,7 +712,7 @@
                                 <div class="content mt-3">
                                     <h4 class="title font-weight-bold">E-mail para contato</h4>
                                     <p class="text-muted">Estamos esperando seu contato via email!</p>
-                                    <a href="mailto:dmambiental@dmambiental.com" class="text-primary">regularize@stsambiental.com</a>
+                                    <a href="mailto:dmambiental@dmambiental.com" class="text-primary">dmambiental@dmambiental.com</a>
                                 </div>
                             </div>
                         </div>
@@ -808,10 +839,10 @@
                 </div>
 
                 <div class="col-sm-2 mt-4 mt-sm-0 pt-2 pt-sm-0 text-end">
-                    <ul class="list-unstyled social-icon social mb-0 mt-4">
-                        <li class="list-inline-item"><a href="https://www.facebook.com/stsregularize" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.instagram.com/stsambiental/"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.linkedin.com/company/sts-regulariza%C3%A7%C3%A3o-ambiental-e-imobili%C3%A1ria/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                    <ul class="list-unstyled social-icon social mb-0 mt-4"> 
+                        <li class="list-inline-item"><a href="https://www.facebook.com/AmbientalDM" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/grupo.dmstsambiental"  class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <!--<li class="list-inline-item"><a href="https://www.linkedin.com/company/sts-regulariza%C3%A7%C3%A3o-ambiental-e-imobili%C3%A1ria/" class="rounded" target="_blank" ><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>-->
                     </ul>
                 </div>
             </div>
@@ -819,7 +850,7 @@
     </footer>
 
    
-    <a href="https://wa.me/message/F4Q3QFF4YBS5J1" class="btn btn-icon back-to-top" target="_BLANK"><img src="images/logowpp.svg" alt="" width="40px"></a>
+    <a href="https://wa.me/5541992286947?text=Ol%C3%A1,%20tenho%20algumas%20duvidas%20que%20gostaria%20de%20esclarecer.%20Poderia%20me%20auxiliar?" class="btn btn-icon back-to-top" target="_BLANK"><img src="images/logowpp.svg" alt="" width="40px"></a>
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/jquery.mask.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
