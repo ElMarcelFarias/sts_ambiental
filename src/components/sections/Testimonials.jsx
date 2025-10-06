@@ -22,7 +22,7 @@ const Testimonials = () => {
       company: "Construtora ABC",
       text: "A STS nos ajudou com todo o licenciamento ambiental do nosso empreendimento. Recomendo!",
       rating: 5,
-      image: "/images/prontidao2.jpeg"
+      image: "/images/Vistoria.jpg"
     },
     {
       name: "Carlos Oliveira",
@@ -42,7 +42,7 @@ const Testimonials = () => {
     {
       title: "Vigilância Ambiental",
       description: "Monitoramento contínuo para garantir conformidade ambiental",
-      image: "/images/prontidao2.jpeg"
+      image: "/images/Vistoria.jpg"
     },
     {
       title: "Conscientização em Prática",
