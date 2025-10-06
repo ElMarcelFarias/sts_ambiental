@@ -121,8 +121,8 @@ const CTA = () => {
             </motion.a>
 
             <div className="text-center sm:text-left">
-              <p className="text-lg font-medium mb-2">Conheça nosso trabalho</p>
-              <p className="text-gray-200 text-sm">Assista ao vídeo sobre nossa atuação</p>
+              <p className="text-lg font-medium mb-2">Litoral Paranaense</p>
+              <p className="text-gray-200 text-sm">Assista ao vídeo e conheça o Litoral Paranaense</p>
             </div>
           </motion.div>
 
