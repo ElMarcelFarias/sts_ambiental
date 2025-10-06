@@ -33,7 +33,7 @@ const About = () => {
   ]
 
   const benefits = [
-    "Quase 10 anos de experiência no mercado",
+    "10 anos de experiência no mercado",
     "Equipe completa e especializada",
     "Agilidade e praticidade perante órgãos públicos",
     "Comunicação facilitada",

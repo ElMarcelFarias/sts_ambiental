@@ -66,9 +66,9 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Localização",
-      description: "R. José Gomes, 340 - João Gualberto, Paranaguá - PR, 83203-610",
+      description: "Av. Cel. José Lobo, 565 - Oceania, Paranaguá - PR, CEP 83203-340",
       value: "Ver no Google Maps",
-      link: "https://www.google.com/maps/place/R.+Jos%C3%A9+Gomes,+340+-+Jo%C3%A3o+Gualberto,+Paranagu%C3%A1+-+PR,+83203-610"
+      link: "https://www.google.com/maps/place/Av.+Cel.+Jos%C3%A9+Lobo,+565+-+Oceania,+Paranagu%C3%A1+-+PR,+83203-340"
     }
   ]
 
@@ -351,7 +351,7 @@ const Contact = () => {
         >
           <div className="bg-gray-100 rounded-2xl overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7201.094673701738!2d-48.511592!3d-25.520139000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db9a5c61497b59%3A0xb229d5f57354dddf!2sR.%20Jos%C3%A9%20Gomes%2C%20340%20-%20Jo%C3%A3o%20Gualberto%2C%20Paranagu%C3%A1%20-%20PR%2C%2083203-610!5e0!3m2!1spt-BR!2sbr!4v1660245759618!5m2!1spt-BR!2sbr"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3602.8234567890123!2d-48.5115920!3d-25.5201390!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDMxJzEyLjUiUyA0OMKwMzAnNDEuNyJX!5e0!3m2!1spt-BR!2sbr!4v1660245759618!5m2!1spt-BR!2sbr"
               width="100%"
               height="400"
               style={{ border: 0 }}

@@ -131,7 +131,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-start text-gray-300">
                   <MapPin className="w-5 h-5 mr-3 mt-1 text-primary-400 flex-shrink-0" />
-                  <span>R. José Gomes, 340 - João Gualberto<br />Paranaguá - PR, 83203-610</span>
+                  <span>Av. Cel. José Lobo, 565 - Oceania<br />Paranaguá - PR, CEP 83203-340</span>
                 </div>
               </motion.div>
 

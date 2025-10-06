@@ -178,7 +178,7 @@ Para dúvidas sobre o desenvolvimento:
 Para questões sobre a empresa:
 - **Telefone**: (41) 3722-5782
 - **Email**: dmambiental@dmambiental.com
-- **Endereço**: R. José Gomes, 340 - João Gualberto, Paranaguá - PR
+- **Endereço**: Av. Cel. José Lobo, 565 - Oceania, Paranaguá - PR, CEP 83203-340
 
 ## 📄 Licença
 

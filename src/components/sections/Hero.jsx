@@ -91,8 +91,7 @@ const Hero = () => {
               transition={{ duration: 0.8, delay: 0.6 }}
               className="text-xl text-gray-100 mb-8 leading-relaxed"
             >
-              Especialistas em licenciamento ambiental, regularização imobiliária e prontidão ambiental.
-              Atendemos todo o Brasil com qualidade, agilidade e sustentabilidade.
+              Especialista em licenciamentos e estudo ambientais, prontidão ambiental, projetos civis, topografia, georreferenciamento de áreas rurais e regularização imobiliária.
             </motion.p>
 
             <motion.div
@@ -129,7 +128,7 @@ const Hero = () => {
               className="grid grid-cols-3 gap-8 mt-12 pt-8 border-t border-white/20"
             >
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary-200">10+</div>
+                <div className="text-2xl font-bold text-primary-200">10</div>
                 <div className="text-sm text-gray-200">Anos de Experiência</div>
               </div>
               <div className="text-center">

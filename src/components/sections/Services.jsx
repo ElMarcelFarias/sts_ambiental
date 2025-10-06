@@ -53,7 +53,7 @@ const Services = () => {
     licenciamento: [
       {
         title: 'Licenciamento Ambiental',
-        description: 'Obtenção de licenças prévia, de instalação e operação',
+        description: 'Licenciamento simplificado, tri fásico, dispensa de licença, autorização ambiental e florestal.',
         icon: <Shield className="w-8 h-8" />
       },
       {
@@ -68,7 +68,7 @@ const Services = () => {
       },
       {
         title: 'Plano de Controle Ambiental - PCA',
-        description: 'Medidas de controle e monitoramento ambiental',
+        description: 'Planos ambientais, inventário florestal e estudos de fauna.',
         icon: <AlertTriangle className="w-8 h-8" />
       }
     ],
@@ -155,7 +155,7 @@ const Services = () => {
             Nossos <span className="gradient-text">Serviços</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Oferecemos soluções completas em consultoria ambiental e regularização imobiliária
+            Oferecemos soluções completas em consultoria ambiental, prontidão ambiental, projetos civis, topografia, georreferenciamento de áreas rurais e regularização imobiliária
           </p>
         </motion.div>
 

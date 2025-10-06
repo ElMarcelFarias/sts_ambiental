@@ -21,7 +21,7 @@ const Differentials = () => {
   const differentials = [
     {
       icon: <Clock className="w-8 h-8" />,
-      title: "Quase 10 anos de experiência",
+      title: "10 anos de experiência",
       description: "Sólida trajetória no mercado ambiental com expertise comprovada",
       color: "bg-blue-500"
     },

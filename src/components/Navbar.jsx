@@ -69,12 +69,17 @@ const Navbar = () => {
             {/* Logo */}
             <motion.div
               whileHover={{ scale: 1.05 }}
-              className="flex items-center"
+              className="flex items-center space-x-4"
             >
               <img
-                src="/images/logo.png"
+                src="/images/logo sts.png"
                 alt="STS Ambiental"
-                className="h-10 md:h-12 lg:h-16 w-auto rounded-lg"
+                className="h-8 md:h-10 lg:h-12 w-auto"
+              />
+              <img
+                src="/images/LOGO DM.png"
+                alt="DM Ambiental"
+                className="h-8 md:h-10 lg:h-12 w-auto"
               />
             </motion.div>
 

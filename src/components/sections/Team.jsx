@@ -26,19 +26,19 @@ const Team = () => {
 
   const offices = [
     {
-      image: "/images/cd3.jpg",
-      title: "Conforto",
-      description: "Ambiente climatizado e confortável para melhor atendimento"
+      image: "/images/foto_escritorio1.jpeg",
+      title: "Recepção",
+      description: "Ambiente moderno e acolhedor para receber nossos clientes"
     },
     {
-      image: "/images/card2.jpeg",
-      title: "Completo",
-      description: "Estrutura completa com toda tecnologia necessária"
+      image: "/images/foto_escritorio2.jpeg",
+      title: "Fachada",
+      description: "Localização estratégica com fácil acesso e estacionamento"
     },
     {
-      image: "/images/cd1.png",
-      title: "Climatizado",
-      description: "Espaço totalmente climatizado para seu conforto"
+      image: "/images/foto_escritorio3.jpeg",
+      title: "Sala de Reuniões",
+      description: "Espaço equipado para apresentações e reuniões técnicas"
     }
   ]
 
@@ -179,8 +179,8 @@ const Team = () => {
                 </div>
                 <h4 className="font-semibold mb-2">Localização</h4>
                 <p className="text-primary-100 text-sm">
-                  R. José Gomes, 340 - João Gualberto<br />
-                  Paranaguá - PR, 83203-610
+                  Av. Cel. José Lobo, 565 - Oceania<br />
+                  Paranaguá - PR, CEP 83203-340
                 </p>
               </div>
             </div>
