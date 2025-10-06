@@ -43,7 +43,7 @@ const Services = () => {
     },
     {
       id: 'topografia',
-      name: 'Topografia',
+      name: 'Topografia e Engenharia Civil',
       icon: <Map className="w-6 h-6" />,
       color: 'bg-orange-500'
     }
@@ -123,7 +123,7 @@ const Services = () => {
         icon: <Map className="w-8 h-8" />
       },
       {
-        title: 'Topografia',
+        title: 'Topografia e Engenharia Civil',
         description: 'Levantamentos topográficos precisos',
         icon: <Map className="w-8 h-8" />
       },
@@ -155,7 +155,7 @@ const Services = () => {
             Nossos <span className="gradient-text">Serviços</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Oferecemos soluções completas em consultoria ambiental, prontidão ambiental, projetos civis, topografia, georreferenciamento de áreas rurais e regularização imobiliária
+            Oferecemos soluções completas em consultoria ambiental, prontidão ambiental, projetos civis, topografia e engenharia civil, georreferenciamento de áreas rurais e regularização imobiliária
           </p>
         </motion.div>
 

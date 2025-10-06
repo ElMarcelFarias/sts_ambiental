@@ -91,7 +91,7 @@ const Hero = () => {
               transition={{ duration: 0.8, delay: 0.6 }}
               className="text-xl text-gray-100 mb-8 leading-relaxed"
             >
-              Especialista em licenciamentos e estudo ambientais, prontidão ambiental, projetos civis, topografia, georreferenciamento de áreas rurais e regularização imobiliária.
+              Especialista em licenciamentos e estudo ambientais, prontidão ambiental, projetos civis, topografia e engenharia civil, georreferenciamento de áreas rurais e regularização imobiliária.
             </motion.p>
 
             <motion.div

@@ -45,7 +45,7 @@ const Footer = () => {
     'Regularização Fundiária',
     'Cadastro Ambiental Rural',
     'Gestão Ambiental',
-    'Topografia',
+    'Topografia e Engenharia Civil',
     'Prontidão Ambiental'
   ]
 
