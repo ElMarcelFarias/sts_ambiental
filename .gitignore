@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# PWA files
+dev-dist
+sw.js
+workbox-*.js
+
+# Build files
+build/
+out/
+
+# Cache
+.cache
+.parcel-cache
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Old project files (removed during modernization)
+# These files were part of the legacy PHP/jQuery version
+# and have been replaced by the modern React implementation
+
+# Legacy files that were removed:
+# - index.php (replaced by React SPA)
+# - email.php (replaced by EmailJS)
+# - css/ folder (replaced by Tailwind CSS)
+# - js/ folder (replaced by React components)
+# - fonts/ folder (using Google Fonts now)
+# - phpmailer/ folder (replaced by EmailJS)
